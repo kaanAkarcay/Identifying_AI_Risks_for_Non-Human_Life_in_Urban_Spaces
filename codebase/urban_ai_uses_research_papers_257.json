@@ -1,0 +1,2572 @@
+[
+    {
+        "Use": 1,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting location privacy in mobile services",
+        "Capability": "Adjusting spatial precision using fuzzy inference from user context",
+        "AI_Deployer": "Telecommunication companies",
+        "AI_Subject": "Mobile users",
+        "Description": "The AI system intended to be used by telecommunication companies to protect the location privacy of mobile users by adjusting spatial precision using fuzzy inference from user context.",
+        "Location": "Tehran, Iran"
+    },
+    {
+        "Use": 2,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating multiple land use changes",
+        "Capability": "Predicting land use changes using neural network-based cellular automata",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used for simulating multiple land use changes in urban areas by predicting changes using neural network-based cellular automata.",
+        "Location": "China"
+    },
+    {
+        "Use": 3,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting geoprivacy of mobile users",
+        "Capability": "Masking user location using privacy-preserving techniques for location data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Mobile users",
+        "Description": "The AI system intended to be used for protecting the geoprivacy of mobile users by masking user location using privacy-preserving techniques for location data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 4,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Inferring home locations of Twitter users",
+        "Capability": "Clustering geo-tagged tweets using spatiotemporal analysis",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Twitter users",
+        "Description": "The AI system intended to be used for inferring home locations of Twitter users by clustering geo-tagged tweets using spatiotemporal analysis",
+        "Location": "Hartford County, Connecticut, USA"
+    },
+    {
+        "Use": 5,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Predicting air pollutant concentrations",
+        "Capability": "Modeling PM2.5 levels using Heterogeneous Space-Time Artificial Neural Networks from environmental data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for predicting air pollutant concentrations by modeling PM2.5 levels using Heterogeneous Space-Time Artificial Neural Networks from environmental data.",
+        "Location": "Beijing-Tianjin-Hebei region, China"
+    },
+    {
+        "Use": 6,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban land use changes",
+        "Capability": "Calibrating land parcel cellular automaton using ensemble learning from cadastral and spatial data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used for simulating urban land use changes by calibrating land parcel cellular automaton using ensemble learning from cadastral and spatial data.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 7,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Anonymizing health care data",
+        "Capability": "Partitioning health data using Voronoi-based aggregation for k-anonymity",
+        "AI_Deployer": "Hospitals and healthcare organizations",
+        "AI_Subject": "Patients",
+        "Description": "The AI system intended to be used for anonymizing health care data by partitioning health data using Voronoi-based aggregation for k-anonymity, by hospitals and healthcare organizations.",
+        "Location": "Canada"
+    },
+    {
+        "Use": 8,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban growth",
+        "Capability": "Predicting land use change from remote sensing data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for simulating urban growth by predicting land use change from remote sensing data.",
+        "Location": "Tehran Metropolitan Area"
+    },
+    {
+        "Use": 9,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Predicting rainfall distribution",
+        "Capability": "Combining neural networks for spatial interpolation",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Communities affected by rainfall",
+        "Description": "The AI system intended to be used for predicting rainfall distribution through the combination of neural networks for spatial interpolation, aimed at aiding environmental research and sustainability efforts.",
+        "Location": "Taiwan"
+    },
+    {
+        "Use": 10,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban growth",
+        "Capability": "Vectorizing and parallelizing cellular automata models",
+        "AI_Deployer": "Urban researchers",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used for simulating urban growth by vectorizing and parallelizing cellular automata models to assist urban researchers in understanding the development patterns of cities and their impact on urban residents.",
+        "Location": "Wuhan, China"
+    },
+    {
+        "Use": 11,
+        "Domain": "Public and private transportation",
+        "Purpose": "Estimating energy-efficiency of urban traffic",
+        "Capability": "Analyzing movement data from GNSS",
+        "AI_Deployer": "Urban researchers",
+        "AI_Subject": "Drivers",
+        "Description": "The AI system intended to be used for estimating energy-efficiency of urban traffic by analyzing movement data from GNSS.",
+        "Location": "Salzburg, Austria"
+    },
+    {
+        "Use": 12,
+        "Domain": "Urban Planning",
+        "Purpose": "Improving the generalization of buildings in urban models",
+        "Capability": "Generalizing building structures based on urban context",
+        "AI_Deployer": "Urban planners, geospatial analysts",
+        "AI_Subject": "City infrastructure, building models",
+        "Description": "The AI system intended to be used for improving the generalization of buildings in urban models by generalizing building structures based on urban context.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 13,
+        "Domain": "Urban Planning",
+        "Purpose": "Evaluating the quality of urban environments",
+        "Capability": "Analyzing street view images and assessing urban environment qualities",
+        "AI_Deployer": "Urban planners, researchers",
+        "AI_Subject": "City residents and visitors",
+        "Description": "The AI system intended to be used for evaluating the quality of urban environments by analyzing street view images and assessing various qualities.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 14,
+        "Domain": "Education and Vocational Training",
+        "Purpose": "Classifying student admissions based on geographic and academic data",
+        "Capability": "Identifying geographic biases in college admissions decisions",
+        "AI_Deployer": "University admissions officers, data scientists",
+        "AI_Subject": "Prospective students",
+        "Description": "The AI system intended to be used for classifying student admissions based on geographic and academic data to identify geographic biases in college admissions decisions.",
+        "Location": "USA"
+    },
+    {
+        "Use": 15,
+        "Domain": "Public and private transportation",
+        "Purpose": "Discovering movement patterns from vehicle trajectory data",
+        "Capability": "Processing large trajectory datasets",
+        "AI_Deployer": "Urban planners, transport researchers",
+        "AI_Subject": "Commuters",
+        "Description": "The AI system intended to be used by urban planners and transport researchers for discovering movement patterns from vehicle trajectory data to optimize public and private transportation efficiency.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 16,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting user privacy while analyzing GPS trajectory patterns",
+        "Capability": "Obfuscating GPS data while retaining spatial accuracy",
+        "AI_Deployer": "Geospatial researchers, transportation agencies",
+        "AI_Subject": "Commuters",
+        "Description": "The AI system intended to be used for protecting user privacy while analyzing GPS trajectory patterns by obfuscating GPS data while retaining spatial accuracy.",
+        "Location": "Chicago, USA; Atlanta, USA"
+    },
+    {
+        "Use": 17,
+        "Domain": "Social and Community Services",
+        "Purpose": "Identifying different types of residential neighborhoods",
+        "Capability": "Classifying settlement patterns",
+        "AI_Deployer": "Urban planners, geospatial researchers",
+        "AI_Subject": "Settlement residents",
+        "Description": "The AI system intended to be used for classifying residential settlement patterns to assist urban planners and geospatial researchers.",
+        "Location": "Balkh, Helmand, Herat, Kabul, Kandahar, Kunduz, Nangarhar (Afghanistan)"
+    },
+    {
+        "Use": 18,
+        "Domain": "Innovation and Research",
+        "Purpose": "Identifying objects on the ground",
+        "Capability": "Analyzing 3D images to classify objects like buildings and trees",
+        "AI_Deployer": "Geospatial researchers, urban planners",
+        "AI_Subject": "Ground objects",
+        "Description": "The AI system intended to be used for analyzing 3D images to classify objects like buildings and trees for applications in geospatial research and urban planning.",
+        "Location": "Vaihingen, Germany"
+    },
+    {
+        "Use": 19,
+        "Domain": "Urban Planning",
+        "Purpose": "Balancing land use for effective area management",
+        "Capability": "Optimizing land use allocation",
+        "AI_Deployer": "Urban planners, regional developers",
+        "AI_Subject": "Land parcels owners",
+        "Description": "The AI system intended to be used for balancing land use to optimize area management by urban planners and regional developers.",
+        "Location": "Large urban and regional areas"
+    },
+    {
+        "Use": 20,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting sensitive health information while sharing data",
+        "Capability": "Analyzing confidentiality risks in shared health data",
+        "AI_Deployer": "Health researchers and data custodians",
+        "AI_Subject": "Patients and their health records",
+        "Description": "The AI system intended to be used for protecting sensitive health information while sharing data by analyzing confidentiality risks in shared health data.",
+        "Location": "Los Angeles, California"
+    },
+    {
+        "Use": 21,
+        "Domain": "Urban Planning",
+        "Purpose": "Planning future land use",
+        "Capability": "Simulating urban expansion",
+        "AI_Deployer": "Urban planners, city governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for planning future land use by simulating urban expansion in order to assist urban planners and city governments.",
+        "Location": "Kunming, China"
+    },
+    {
+        "Use": 22,
+        "Domain": "Innovation and Research",
+        "Purpose": "Classifying land-use objects",
+        "Capability": "Extracting knowledge from cadastral and spatial data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Residents in urban areas",
+        "Description": "The AI system intended to be used for classifying land-use objects by extracting knowledge from cadastral and spatial data for research purposes.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 23,
+        "Domain": "Innovation and Research",
+        "Purpose": "Reconstructing 3D building facades",
+        "Capability": "Learning grammar rules from 3D point clouds using SVM",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Buildings",
+        "Description": "The AI system intended to be used for reconstructing 3D building facades by learning grammar rules from 3D point clouds using SVM, exclusively in the domain of innovation and research.",
+        "Location": "Bonn, Germany"
+    },
+    {
+        "Use": 24,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling building symmetries",
+        "Capability": "Identifying axial and translational symmetries using SVM",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Buildings",
+        "Description": "The AI system intended to be used by researchers in urban planning to model building symmetries by identifying axial and translational symmetries using SVM.",
+        "Location": "Bonn, Germany"
+    },
+    {
+        "Use": 25,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling urban land use change",
+        "Capability": "Classifying land use changes using SVM from geospatial data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban land",
+        "Description": "The AI system intended to be used for modeling urban land use change by classifying land use changes using SVM from geospatial data for research purposes.",
+        "Location": "Zemun, Republic of Serbia"
+    },
+    {
+        "Use": 26,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling urban land use change",
+        "Capability": "Classifying land use changes using SVM from geospatial data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban land",
+        "Description": "The AI system intended to be used for modeling urban land use change by classifying land use changes using SVM from geospatial data.",
+        "Location": "Zemun, Republic of Serbia"
+    },
+    {
+        "Use": 27,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Modeling vegetation regrowth",
+        "Capability": "Calibrating cellular automata model using genetic algorithm and local optimizer",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Farmland vegetation",
+        "Description": "The AI system intended to be used for modeling vegetation regrowth in agriculture and farming by calibrating cellular automata models using genetic algorithms and local optimizers, primarily by researchers.",
+        "Location": "Central Victoria, Australia"
+    },
+    {
+        "Use": 28,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Classifying soil types",
+        "Capability": "Reasoning from similar soil cases using case-based reasoning",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Soil samples",
+        "Description": "The AI system intended to be used by researchers for classifying soil types based on reasoning from similar soil cases.",
+        "Location": "Central Otago, New Zealand"
+    },
+    {
+        "Use": 29,
+        "Domain": "Urban Planning",
+        "Purpose": "Optimizing land-use allocation",
+        "Capability": "Allocating land-use with artificial bee colony algorithm",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Land parcels",
+        "Description": "The AI system intended to be used by researchers for optimizing land-use allocation through the artificial bee colony algorithm to allocate land use among land parcels.",
+        "Location": "Jixian, Tianjin, China"
+    },
+    {
+        "Use": 30,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling urban change",
+        "Capability": "Predicting land use change using RBFN and MLP from geospatial data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used for modeling urban change by predicting land use change using RBFN and MLP from geospatial data for research purposes.",
+        "Location": "Mumbai, India"
+    },
+    {
+        "Use": 31,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban growth",
+        "Capability": "Modeling spatial dynamics using hybrid parallel cellular automata",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used for simulating urban growth by modeling spatial dynamics using hybrid parallel cellular automata.",
+        "Location": "California, USA"
+    },
+    {
+        "Use": 32,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting confidentiality of spatial data",
+        "Capability": "Masking geographic data points using local random transformations",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for protecting the confidentiality of spatial data by masking geographic data points using local random transformations.",
+        "Location": "Baton Rouge, Louisiana, USA"
+    },
+    {
+        "Use": 33,
+        "Domain": "Urban Planning",
+        "Purpose": "Predicting mixed land-use changes",
+        "Capability": "Classifying land use using multi-label kNN from biophysical data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Land parcels",
+        "Description": "The AI system intended to be used for predicting mixed land-use changes by classifying land use using multi-label kNN from biophysical data.",
+        "Location": "Luxembourg"
+    },
+    {
+        "Use": 34,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting privacy of crime data",
+        "Capability": "Masking crime incident locations using geographical masking techniques",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Crime victims",
+        "Description": "The AI system intended to be used for protecting the privacy of crime data by masking crime incident locations using geographical masking techniques.",
+        "Location": "Vienna, Austria"
+    },
+    {
+        "Use": 35,
+        "Domain": "Urban Planning",
+        "Purpose": "Facilitating urban land use planning",
+        "Capability": "Modeling spatial configurations using socially rational agents with Bayesian learning",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "City zones",
+        "Description": "The AI system intended to be used by urban planners for facilitating urban land use planning through modeling spatial configurations using socially rational agents with Bayesian learning.",
+        "Location": "Zanjan, Iran"
+    },
+    {
+        "Use": 36,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling mixed land use changes",
+        "Capability": "Simulating land use transitions using a multi-label cellular automata model with Rank-SVM from accessibility and suitability data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used for modeling mixed land use changes by simulating land use transitions using a multi-label cellular automata model with Rank-SVM from accessibility and suitability data by researchers for urban areas.",
+        "Location": "Luxembourg"
+    },
+    {
+        "Use": 37,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban development",
+        "Capability": "Discovering transition rules using bee colony optimization for cellular automata",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used to simulate urban development by discovering transition rules using bee colony optimization for cellular automata in urban planning contexts.",
+        "Location": "Xi'an-Xian Yang, China"
+    },
+    {
+        "Use": 38,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Predicting building-level solid waste generation",
+        "Capability": "Estimating waste generation using gradient boosting and neural networks from building, socioeconomic, and weather data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Buildings",
+        "Description": "The AI system intended to be used for predicting building-level solid waste generation by estimating waste generation using gradient boosting and neural networks from building, socioeconomic, and weather data.",
+        "Location": "New York City, USA"
+    },
+    {
+        "Use": 39,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban expansion",
+        "Capability": "Mining transition rules from deep learning model",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for simulating urban expansion by mining transition rules from a deep learning model, primarily employed by researchers focusing on the impacts on city residents.",
+        "Location": "Pearl River Delta, China"
+    },
+    {
+        "Use": 40,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Understanding urban mobility patterns",
+        "Capability": "Segmenting GPS data into meaningful trips",
+        "AI_Deployer": "Urban planners, researchers",
+        "AI_Subject": "City residents using GPS-enabled devices",
+        "Description": "The AI system intended to be used for understanding urban mobility patterns by segmenting GPS data into meaningful trips for urban planners and researchers focusing on city residents using GPS-enabled devices.",
+        "Location": "Glasgow, United Kingdom"
+    },
+    {
+        "Use": 41,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Recommending personalized tourist routes",
+        "Capability": "Predicting next tourist destination using location-tagged data",
+        "AI_Deployer": "Tour operators, researchers",
+        "AI_Subject": "Tourists",
+        "Description": "The AI system intended to be used by tour operators and researchers for recommending personalized tourist routes based on predicting the next destinations using location-tagged data.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 42,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting user location privacy",
+        "Capability": "Obfuscating GPS data from social media",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Social media users",
+        "Description": "The AI system intended to be used for protecting user location privacy by obfuscating GPS data from social media.",
+        "Location": "Italy"
+    },
+    {
+        "Use": 43,
+        "Domain": "Finance and Investment",
+        "Purpose": "Evaluating land prices",
+        "Capability": "Improving model accuracy with ANN optimization",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by researchers for evaluating land prices in urban locations to enhance model accuracy via Artificial Neural Network (ANN) optimization.",
+        "Location": "Mecklenburg County, North Carolina, USA"
+    },
+    {
+        "Use": 44,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Predicting salt and abrasive needs for winter roads",
+        "Capability": "Analyzing telemetry and weather data with machine learning",
+        "AI_Deployer": "Municipal authorities",
+        "AI_Subject": "Street segments",
+        "Description": "The AI system intended to be used for predicting salt and abrasive needs for winter road maintenance by analyzing telemetry and weather data with machine learning, managed by municipal authorities for targeting specific street segments.",
+        "Location": "Granby, Quebec, Canada"
+    },
+    {
+        "Use": 45,
+        "Domain": "Urban Planning",
+        "Purpose": "Estimating building heights",
+        "Capability": "Classifying LiDAR points into rooftop, wall, ground",
+        "AI_Deployer": "Urban researchers",
+        "AI_Subject": "City buildings",
+        "Description": "The AI system intended to be used by urban researchers for estimating building heights by classifying LiDAR points into rooftop, wall, and ground to assist in urban planning.",
+        "Location": "Columbus, Ohio, USA"
+    },
+    {
+        "Use": 46,
+        "Domain": "Urban Planning",
+        "Purpose": "Modeling land consumption rates",
+        "Capability": "Predicting land-use change from demographic and socioeconomic data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Municipalities",
+        "Description": "The AI system intended to be used by urban planners for modeling land consumption rates by predicting land-use change from demographic and socioeconomic data.",
+        "Location": "Bavaria, Germany"
+    },
+    {
+        "Use": 47,
+        "Domain": "Urban Planning",
+        "Purpose": "Measuring human perceptions of urban regions",
+        "Capability": "Predicting perceptions using deep learning on street images",
+        "AI_Deployer": "Urban researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for measuring human perceptions of urban regions by predicting perceptions using deep learning on street images.",
+        "Location": "Beijing, Shanghai, China"
+    },
+    {
+        "Use": 48,
+        "Domain": "Finance and Investment",
+        "Purpose": "Quantifying the value of real estate property",
+        "Capability": "Analyzing property descriptions to assess property uniqueness and price",
+        "AI_Deployer": "Real estate agents, property evaluators",
+        "AI_Subject": "Home buyers, sellers",
+        "Description": "The AI system intended to be used for quantifying the value of real estate property by analyzing property descriptions to assess property uniqueness and price.",
+        "Location": "Atlanta, GA, USA"
+    },
+    {
+        "Use": 49,
+        "Domain": "Urban Planning",
+        "Purpose": "Predicting future urban expansion",
+        "Capability": "Simulating land-use changes",
+        "AI_Deployer": "Urban planners, city developers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for predicting future urban expansion by simulating land-use changes to aid urban planners and city developers.",
+        "Location": "South Auckland, New Zealand"
+    },
+    {
+        "Use": 50,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Monitoring land surface temperature for climate studies",
+        "Capability": "Extracting temperature data from satellite imagery",
+        "AI_Deployer": "Climate researchers, environmental agencies",
+        "AI_Subject": "Land surfaces, environmental data",
+        "Description": "The AI system intended to be used for monitoring land surface temperature for climate studies by extracting temperature data from satellite imagery.",
+        "Location": "China"
+    },
+    {
+        "Use": 51,
+        "Domain": "Finance and Investment",
+        "Purpose": "Mapping urban income distribution",
+        "Capability": "Estimating local income variations",
+        "AI_Deployer": "Urban planners and researchers",
+        "AI_Subject": "Urban populations",
+        "Description": "The AI system intended to be used for mapping urban income distribution by estimating local income variations for urban planners and researchers.",
+        "Location": "United States"
+    },
+    {
+        "Use": 52,
+        "Domain": "Innovation and Research",
+        "Purpose": "Generating detailed elevation maps",
+        "Capability": "Interpolating terrain elevations",
+        "AI_Deployer": "Urban planners and geospatial analysts",
+        "AI_Subject": "Geographic terrains",
+        "Description": "The AI system intended to be used for generating detailed elevation maps by interpolating terrain elevations, aiding urban planners and geospatial analysts.",
+        "Location": "Various regions in China"
+    },
+    {
+        "Use": 53,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Managing addresses",
+        "Capability": "Classifying and integrating urban address data based on street network data",
+        "AI_Deployer": "Urban planners, government bodies",
+        "AI_Subject": "Urban residents and businesses",
+        "Description": "The AI system intended to be used for managing addresses by classifying and integrating urban address data based on street network data.",
+        "Location": "United Kingdom"
+    },
+    {
+        "Use": 54,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Managing urban heat",
+        "Capability": "Predicting land surface temperatures from landscape characteristics",
+        "AI_Deployer": "Urban planners and environmental scientists",
+        "AI_Subject": "Urban areas and their populations",
+        "Description": "The AI system intended to be used for managing urban heat by predicting land surface temperatures from landscape characteristics.",
+        "Location": "Southampton, UK"
+    },
+    {
+        "Use": 55,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Standardizing place names for urban maps",
+        "Capability": "Matching geographic names across different databases",
+        "AI_Deployer": "City planners and geographers",
+        "AI_Subject": "Geographic features in urban settings",
+        "Description": "The AI system intended to be used for standardizing place names for urban maps by matching geographic names across different databases.",
+        "Location": "Switzerland"
+    },
+    {
+        "Use": 56,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Speeding up ambulance responses to emergencies",
+        "Capability": "Predicting locations of emergency events",
+        "AI_Deployer": "Emergency medical services",
+        "AI_Subject": "Residents requiring emergency medical assistance",
+        "Description": "The AI system intended to be used by emergency medical services to predict locations of emergency events to optimize ambulance deployment speeds and improve response times.",
+        "Location": "Athens, Greece"
+    },
+    {
+        "Use": 57,
+        "Domain": "Social and Community Services",
+        "Purpose": "Identifying areas at risk of gentrification",
+        "Capability": "Forecasting changes in neighborhood demographics and economics",
+        "AI_Deployer": "Urban planners and policymakers",
+        "AI_Subject": "Residents of neighborhoods undergoing transition",
+        "Description": "The AI system intended to be used for identifying areas at risk of gentrification by forecasting changes in neighborhood demographics and economics to aid urban planners and policymakers.",
+        "Location": "London"
+    },
+    {
+        "Use": 58,
+        "Domain": "Urban Planning",
+        "Purpose": "Identifying land at high risk of abandonment",
+        "Capability": "Predicting abandonment from geographic and demographic data",
+        "AI_Deployer": "Land use planners and policymakers",
+        "AI_Subject": "Rural residential land owners",
+        "Description": "The AI system intended to be used by urban planners and policymakers to identify land at high risk of abandonment by analyzing and predicting from geographic and demographic data.",
+        "Location": "China"
+    },
+    {
+        "Use": 59,
+        "Domain": "Finance and Investment",
+        "Purpose": "Monitoring housing rental prices",
+        "Capability": "Analyzing rental price data from social media",
+        "AI_Deployer": "Housing policy makers and urban planners",
+        "AI_Subject": "Residents and potential renters",
+        "Description": "The AI system intended to be used by housing policymakers and urban planners to analyze rental price data from social media for monitoring housing rental prices.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 60,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Improving city navigation with landmarks",
+        "Capability": "Extracting landmarks from social media photos",
+        "AI_Deployer": "City planners, app developers",
+        "AI_Subject": "Residents and tourists",
+        "Description": "The AI system intended to be used for extracting landmarks from social media photos to aid city planners and app developers in improving navigation in cities for residents and tourists.",
+        "Location": "Tehran, Iran"
+    },
+    {
+        "Use": 61,
+        "Domain": "Public and private transportation",
+        "Purpose": "Assessing urban movement patterns",
+        "Capability": "Measuring similarity in movement trajectories",
+        "AI_Deployer": "City planners and transport authorities",
+        "AI_Subject": "City residents and commuters",
+        "Description": "The AI system intended to be used for assessing urban movement patterns by measuring similarity in movement trajectories for city planners and transport authorities reviewing city residents and commuters.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 62,
+        "Domain": "Law enforcement",
+        "Purpose": "Managing city surveillance by monitoring urban activities ",
+        "Capability": "Collecting and analyzing surveillance data",
+        "AI_Deployer": "City government and public safety officials",
+        "AI_Subject": "Residents and visitors of the city",
+        "Description": "The AI system intended to be used for managing city surveillance by monitoring urban activities, collecting and analyzing surveillance data.",
+        "Location": "Amsterdam"
+    },
+    {
+        "Use": 63,
+        "Domain": "Innovation and Research",
+        "Purpose": "Tracking AI-driven innovations in local industries",
+        "Capability": "Analyzing AI patents to measure AI's impact on regional knowledge systems",
+        "AI_Deployer": "City governments, policymakers, and research institutions",
+        "AI_Subject": "Cities and urban industries",
+        "Description": "The AI system intended to be used for tracking AI-driven innovations in local industries by analyzing AI patents to measure AI's impact on regional knowledge systems.",
+        "Location": "Europe"
+    },
+    {
+        "Use": 64,
+        "Domain": "Urban Planning",
+        "Purpose": "Evaluating urban land use policies",
+        "Capability": "Predicting urban expansion",
+        "AI_Deployer": "City planners and policymakers",
+        "AI_Subject": "Urban areas and residents",
+        "Description": "The AI system intended to be used by city planners and policymakers for evaluating urban land use policies and predicting urban expansion.",
+        "Location": "Chongqing, China"
+    },
+    {
+        "Use": 65,
+        "Domain": "Urban Planning",
+        "Purpose": "Monitoring citizen perceptions of streets",
+        "Capability": "Analyzing visual and sound data from streets",
+        "AI_Deployer": "City planners and urban researchers",
+        "AI_Subject": "Residents and visitors",
+        "Description": "The AI system intended to be used for monitoring citizen perceptions of streets by analyzing visual and sound data.",
+        "Location": "Mumbai, India"
+    },
+    {
+        "Use": 66,
+        "Domain": "Public and private transportation",
+        "Purpose": "Modeling transportation choices",
+        "Capability": "Predicting transportation mode distribution",
+        "AI_Deployer": "City planners and transportation authorities",
+        "AI_Subject": "Residents and commuters",
+        "Description": "The AI system intended to be used by city planners and transportation authorities for modeling transportation choices and predicting transportation mode distribution among residents and commuters.",
+        "Location": "Melbourne, Australia"
+    },
+    {
+        "Use": 67,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Improving agricultural practices",
+        "Capability": "Analyzing crop data and environmental factors",
+        "AI_Deployer": "Farmers and agricultural policymakers",
+        "AI_Subject": "Crops and agricultural land",
+        "Description": "The AI system intended to be used for analyzing crop data and environmental factors to improve agricultural practices.",
+        "Location": "Sub-Saharan Africa"
+    },
+    {
+        "Use": 68,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Reducing privacy risks from sharing location data",
+        "Capability": "Modeling and assessing privacy risks in location-based social networks",
+        "AI_Deployer": "Social media platforms and policymakers",
+        "AI_Subject": "City residents and social media users",
+        "Description": "The AI system intended to be used for modeling and assessing privacy risks in location-based social networks to reduce privacy risks from sharing location data.",
+        "Location": "Urban areas worldwide"
+    },
+    {
+        "Use": 69,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Reducing traffic congestion",
+        "Capability": "Predicting citywide spatio-temporal traffic flow",
+        "AI_Deployer": "City planners and transportation authorities",
+        "AI_Subject": "City residents and commuters",
+        "Description": "The AI system intended to be used for predicting citywide spatio-temporal traffic flow to assist in reducing traffic congestion by city planners and transportation authorities.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 70,
+        "Domain": "Energy",
+        "Purpose": "Assessing solar energy potential in urban areas",
+        "Capability": "Predicting solar irradiation on buildings and terrain",
+        "AI_Deployer": "Urban planners and energy consultants",
+        "AI_Subject": "Urban buildings and rooftops",
+        "Description": "The AI system intended to be used for assessing solar energy potential in urban areas by predicting solar irradiation on buildings and terrain.",
+        "Location": "Athens, Greece"
+    },
+    {
+        "Use": 71,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Detecting wildfire outbreaks",
+        "Capability": "Classifying fire hotspots from multi-spectral satellite data",
+        "AI_Deployer": "Environmental agencies",
+        "AI_Subject": "Public",
+        "Description": "The AI system intended to be used by environmental agencies for classifying fire hotspots from multi-spectral satellite data to detect wildfire outbreaks.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 72,
+        "Domain": "Energy",
+        "Purpose": "Optimizing building layouts",
+        "Capability": "Maximizing floor area ratio and simulating energy performance",
+        "AI_Deployer": "Urban planners, city governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by urban planners and city governments to optimize building layouts for maximizing floor area ratio and simulating energy performance, affecting the lives of city residents.",
+        "Location": "Gangnam, Seoul"
+    },
+    {
+        "Use": 73,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Supporting sustainable forest management decisions",
+        "Capability": "Combining multisource GIS data",
+        "AI_Deployer": "Environmental researchers",
+        "AI_Subject": "Forested areas",
+        "Description": "The AI system intended to be used for supporting sustainable forest management decisions by combining multisource GIS data.",
+        "Location": "Kioloa, Australia"
+    },
+    {
+        "Use": 74,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Improving urban service management",
+        "Capability": "Matching unstructured addresses with geospatial coordinates",
+        "AI_Deployer": "Urban planning authorities",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used by urban planning authorities for improving urban service management through matching unstructured addresses with geospatial coordinates.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 75,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting individuals' location privacy",
+        "Capability": "Applying geomasking techniques to obscure personal location data",
+        "AI_Deployer": "Internet users",
+        "AI_Subject": "Individuals sharing location data",
+        "Description": "The AI system intended to be used for protecting individuals' location privacy by applying geomasking techniques to obscure personal location data",
+        "Location": "California"
+    },
+    {
+        "Use": 76,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Adjusting taxi fares",
+        "Capability": "Predicting trip tips",
+        "AI_Deployer": "Taxi service operators",
+        "AI_Subject": "Taxi passengers",
+        "Description": "The AI system intended to be used by taxi service operators to adjust taxi fares by predicting trip tips.",
+        "Location": "New York City"
+    },
+    {
+        "Use": 77,
+        "Domain": "Law enforcement",
+        "Purpose": "Preventing crimes through predictive policing",
+        "Capability": "Forecasting crime hotspots",
+        "AI_Deployer": "Police departments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for preventing crimes through predictive policing by forecasting crime hotspots.",
+        "Location": "South Chicago, USA"
+    },
+    {
+        "Use": 78,
+        "Domain": "Urban Planning",
+        "Purpose": "Identifying urban and rural areas",
+        "Capability": "Combining population census data with satellite imagery to identify urban status",
+        "AI_Deployer": "Government authorities, urban planners",
+        "AI_Subject": "Residents of urban and rural areas",
+        "Description": "The AI system intended to be used by government authorities and urban planners to combine population census data with satellite imagery to identify the status of areas as urban or rural.",
+        "Location": "India"
+    },
+    {
+        "Use": 79,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Preserving location privacy for individuals",
+        "Capability": "Obfuscating spatial point tracks using simulated crowding",
+        "AI_Deployer": "Geographical data analysts",
+        "AI_Subject": "Individuals being tracked",
+        "Description": "The AI system intended to be used for preserving location privacy for individuals by obfuscating spatial point tracks using simulated crowding.",
+        "Location": "Netherlands"
+    },
+    {
+        "Use": 80,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Preserving location privacy for individuals",
+        "Capability": "Applying geomasking to obscure precise locations in spatial data",
+        "AI_Deployer": "Researchers, GIS users",
+        "AI_Subject": "Individuals in sensitive spatial datasets",
+        "Description": "The AI system intended to be used for preserving location privacy by applying geomasking to obscure precise locations in spatial data.",
+        "Location": "Vancouver, Canada"
+    },
+    {
+        "Use": 81,
+        "Domain": "Urban Planning",
+        "Purpose": "Protecting natural ecosystems by limiting urban land expansion",
+        "Capability": "Simulating urban land use change",
+        "AI_Deployer": "Urban planners, city governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for protecting natural ecosystems by limiting urban land expansion by simulating urban land use change.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 82,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mapping soil types",
+        "Capability": "Predicting soil types and their distribution from small field samples",
+        "AI_Deployer": "Urban environmental planners",
+        "AI_Subject": "Urban soil ecosystems",
+        "Description": "The AI system intended to be used to map soil types by predicting soil types and their distribution from small field samples.",
+        "Location": "Missoula, Montana, USA"
+    },
+    {
+        "Use": 83,
+        "Domain": "Public and private transportation",
+        "Purpose": "Reducing vehicle ownership through ride-sourcing services",
+        "Capability": "Modeling the relationship between ride-sourcing usage and vehicle ownership",
+        "AI_Deployer": "Transportation researchers, policy makers",
+        "AI_Subject": "Households",
+        "Description": "The AI system intended to be used for modeling the relationship between ride-sourcing usage and vehicle ownership to aid transportation researchers and policy makers in reducing vehicle ownership.",
+        "Location": "United States"
+    },
+    {
+        "Use": 84,
+        "Domain": "Social and Community Services",
+        "Purpose": "Identifying geodemographic patterns of digital inequality",
+        "Capability": "Classifying small areas to estimate internet usage and online engagement",
+        "AI_Deployer": "Researchers, policy makers",
+        "AI_Subject": "Households in small areas",
+        "Description": "The AI system intended to be used for identifying geodemographic patterns of digital inequality by classifying small areas to estimate internet usage and online engagement",
+        "Location": "Great Britain"
+    },
+    {
+        "Use": 85,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mapping natural features for ecological management",
+        "Capability": "Detecting and classifying natural terrain features",
+        "AI_Deployer": "Geospatial researchers, environmental scientists",
+        "AI_Subject": "Natural landscapes",
+        "Description": "The AI system intended to be used for mapping natural features for ecological management by detecting and classifying natural terrain features.",
+        "Location": "United States"
+    },
+    {
+        "Use": 86,
+        "Domain": "Urban Planning",
+        "Purpose": "Recognizing building shapes",
+        "Capability": "Encoding building shapes",
+        "AI_Deployer": "Urban planners, architects",
+        "AI_Subject": "Buildings in urban areas",
+        "Description": "The AI system intended to be used for recognizing building shapes in urban areas by urban planners and architects to aid in urban planning and architectural design.",
+        "Location": "Shanghai, China"
+    },
+    {
+        "Use": 87,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Improving traffic management and reducing congestion",
+        "Capability": "Modeling spatio-temporal flow dependencies",
+        "AI_Deployer": "Traffic management authorities",
+        "AI_Subject": "Drivers and commuters",
+        "Description": "The AI system intended to be used for improving traffic management and reducing congestion by modeling spatio-temporal flow dependencies.",
+        "Location": "Los Angeles, USA"
+    },
+    {
+        "Use": 88,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Monitoring public health during pandemics",
+        "Capability": "Tracking physical distancing compliance",
+        "AI_Deployer": "Government authorities, healthcare providers",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used by government authorities and healthcare providers for monitoring public health during pandemics by tracking physical distancing compliance among urban residents.",
+        "Location": "China"
+    },
+    {
+        "Use": 89,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Controlling the spread of the pandemic",
+        "Capability": "Modeling COVID-19 spread from population flows",
+        "AI_Deployer": "Government authorities, healthcare providers",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used for controlling the spread of the pandemic by modeling COVID-19 spread from population flows",
+        "Location": "China"
+    },
+    {
+        "Use": 90,
+        "Domain": "Finance and Investment",
+        "Purpose": "Understanding house price appreciation trends",
+        "Capability": "Analyzing house and neighborhood features",
+        "AI_Deployer": "Real estate analysts, urban planners",
+        "AI_Subject": "Homeowners, potential buyers",
+        "Description": "The AI system intended to be used for analyzing house and neighborhood features to understand price appreciation trends in the real estate market.",
+        "Location": "Greater Boston Area, USA"
+    },
+    {
+        "Use": 91,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting personal privacy in geospatial data",
+        "Capability": "Anonymizing spatial data using context-sensitive techniques",
+        "AI_Deployer": "Urban planners, data scientists",
+        "AI_Subject": "Individuals contributing GIS data",
+        "Description": "The AI system intended to be used for anonymizing geospatial data to protect personal privacy in public space spatial datasets contributed by individuals.",
+        "Location": "Helsinki, Finland"
+    },
+    {
+        "Use": 92,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing urban traffic",
+        "Capability": "Predicting traffic volume",
+        "AI_Deployer": "Traffic management authorities",
+        "AI_Subject": "Drivers and commuters",
+        "Description": "The AI system intended to be used for managing urban traffic by predicting traffic volume.",
+        "Location": "Utah, USA"
+    },
+    {
+        "Use": 93,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mitigating landslide risks in vulnerable areas",
+        "Capability": "Predicting landslide susceptibility",
+        "AI_Deployer": "Geospatial researchers, disaster management authorities",
+        "AI_Subject": "Communities in landslide-prone areas",
+        "Description": "The AI system intended to be used for predicting landslide susceptibility in vulnerable areas to assist geospatial researchers and disaster management authorities.",
+        "Location": "Yanshan County, China"
+    },
+    {
+        "Use": 94,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting privacy of mobile phone users",
+        "Capability": "Estimating device location",
+        "AI_Deployer": "Telecommunications companies",
+        "AI_Subject": "Mobile phone users",
+        "Description": "The AI system intended to be used by telecommunications companies for protecting the privacy of mobile phone users by estimating device location.",
+        "Location": "Israel"
+    },
+    {
+        "Use": 95,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Ensuring better access to taxi services",
+        "Capability": "Analyzing taxi pick-up patterns",
+        "AI_Deployer": "Taxi companies, city planners",
+        "AI_Subject": "Taxi passengers",
+        "Description": "The AI system intended to be used for analyzing taxi pick-up patterns to ensure better access to taxi services.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 96,
+        "Domain": "Accessibility and Inclusion",
+        "Purpose": "Assisting blind pedestrians in navigating safely",
+        "Capability": "Predicting optimal walking routes from pedestrian traffic data",
+        "AI_Deployer": "Urban planners, accessibility service providers",
+        "AI_Subject": "Blind pedestrians",
+        "Description": "The AI system intended to be used to assist blind pedestrians in navigating safely by predicting optimal walking routes from pedestrian traffic data.",
+        "Location": "Tel Aviv, Israel"
+    },
+    {
+        "Use": 97,
+        "Domain": "Innovation and Research",
+        "Purpose": "Helping people navigate indoor public spaces",
+        "Capability": "Inferring room semantics",
+        "AI_Deployer": "Urban planners, building managers",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used by urban planners and building managers to help people navigate indoor public spaces by inferring room semantics.",
+        "Location": "Germany"
+    },
+    {
+        "Use": 98,
+        "Domain": "Urban Planning",
+        "Purpose": "Analyzing historical urban growth patterns",
+        "Capability": "Recovering data from scanned historical maps, census records, conscription lists, and immigration cards",
+        "AI_Deployer": "Urban economists, researchers",
+        "AI_Subject": "Historical city data",
+        "Description": "The AI system intended to be used for analyzing historical urban growth patterns by recovering data from scanned historical maps, census records, conscription lists, and immigration cards.",
+        "Location": "Multiple locations (France, US, UK)"
+    },
+    {
+        "Use": 99,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Predicting neighborhood health outcomes",
+        "Capability": "Estimating prevalence of diseases using socio-environmental data",
+        "AI_Deployer": "City officials, healthcare planners",
+        "AI_Subject": "Residents in urban neighborhoods",
+        "Description": "The AI system intended to be used for predicting neighborhood health outcomes by estimating disease prevalence using socio-environmental data for urban neighborhood planning by city officials and healthcare planners.",
+        "Location": "Austin, Texas, USA"
+    },
+    {
+        "Use": 100,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mitigating flood risks in vulnerable areas",
+        "Capability": "Mapping flood susceptibility",
+        "AI_Deployer": "Geospatial researchers, disaster management authorities",
+        "AI_Subject": "Residents in flood-prone areas",
+        "Description": "The AI system intended to be used for mitigating flood risks in vulnerable areas by mapping flood susceptibility.",
+        "Location": "Ha Giang Province, Vietnam"
+    },
+    {
+        "Use": 101,
+        "Domain": "Innovation and Research",
+        "Purpose": "Analyzing business connections aross cities",
+        "Capability": "Detecting corporate network patterns",
+        "AI_Deployer": "Urban planners, regional policy makers",
+        "AI_Subject": "Corporations",
+        "Description": "The AI system intended to be used for analyzing business connections across cities by detecting corporate network patterns.",
+        "Location": "China"
+    },
+    {
+        "Use": 102,
+        "Domain": "Innovation and Research",
+        "Purpose": "Supporting the growth of new AI industries",
+        "Capability": "Analyzing the role of AI ecosystem-building agents",
+        "AI_Deployer": "Universities, government agencies, tech companies",
+        "AI_Subject": "AI researchers, entrepreneurs",
+        "Description": "The AI system intended to be used for supporting the growth of new AI industries by analyzing the role of AI ecosystem-building agents.",
+        "Location": "Montreal, Canada"
+    },
+    {
+        "Use": 103,
+        "Domain": "Urban Planning",
+        "Purpose": "Creating building maps",
+        "Capability": "Simplifying building shapes",
+        "AI_Deployer": "Urban planners, GIS specialists",
+        "AI_Subject": "Buildings in urban areas",
+        "Description": "The AI system intended to be used for creating building maps by simplifying building shapes.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 104,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Extracting shallow-water bathymetry",
+        "Capability": "Modeling point attribute data from lidar",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Marine environments",
+        "Description": "The AI system intended to be used for extracting shallow-water bathymetry by modeling point attribute data from lidar.",
+        "Location": "Florida Keys, USA"
+    },
+    {
+        "Use": 105,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Managing tourist crowds in popular locations",
+        "Capability": "Predicting tourist flows",
+        "AI_Deployer": "City authorities, tourism managers",
+        "AI_Subject": "Tourists visiting scenic spots",
+        "Description": "The AI system intended to be used for managing tourist crowds in popular locations by predicting tourist flows.",
+        "Location": "South Luogu Lane, Beijing, China"
+    },
+    {
+        "Use": 106,
+        "Domain": "Urban Planning",
+        "Purpose": "Improving urban vitality in cities",
+        "Capability": "Classifying road networks for urban morphology analysis",
+        "AI_Deployer": "Urban planners, researchers",
+        "AI_Subject": "City infrastructure and residents",
+        "Description": "The AI system intended to be used for improving urban vitality in cities by classifying road networks for urban morphology analysis.",
+        "Location": "Chicago, Seattle, New York (USA), Beijing, Shanghai (China), London (UK), Paris (France), Berlin (Germany), Singapore"
+    },
+    {
+        "Use": 107,
+        "Domain": "Energy",
+        "Purpose": "Reducing household transportation energy consumption",
+        "Capability": "Predicting energy use using household travel and demographic data",
+        "AI_Deployer": "Urban planners, policymakers",
+        "AI_Subject": "Households",
+        "Description": "The AI system intended to be used by urban planners and policymakers for reducing household transportation energy consumption by predicting energy use using household travel and demographic data.",
+        "Location": "Delaware Valley region, USA"
+    },
+    {
+        "Use": 108,
+        "Domain": "Recommender Systems and Personalization",
+        "Purpose": "Suggesting locations",
+        "Capability": "Recommending locations while preserving user privacy",
+        "AI_Deployer": "Location-based service providers",
+        "AI_Subject": "Mobile users",
+        "Description": "The AI system intended to be used for suggesting locations while preserving user privacy.",
+        "Location": "New York City, USA"
+    },
+    {
+        "Use": 109,
+        "Domain": "Humanitarian Aid",
+        "Purpose": "Mapping dwelling density",
+        "Capability": "Extracting building footprints from satellite images",
+        "AI_Deployer": "Humanitarian organizations, healthcare providers",
+        "AI_Subject": "Residents in urban areas",
+        "Description": "The AI system intended to be used by humanitarian organizations and healthcare providers for extracting building footprints from satellite images to map dwelling density in urban areas.",
+        "Location": "Khartoum, Sudan"
+    },
+    {
+        "Use": 110,
+        "Domain": "Urban Planning",
+        "Purpose": "Understanding urban sprawl and its causes",
+        "Capability": "Modeling urban expansion",
+        "AI_Deployer": "Urban planners, policymakers",
+        "AI_Subject": "City infrastructure and residents",
+        "Description": "The AI system intended to be used for understanding urban sprawl and its causes by modeling urban expansion.",
+        "Location": "Wallonia, Belgium"
+    },
+    {
+        "Use": 111,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Supporting disaster response with reliable place names",
+        "Capability": "Extracting location information from microblogs",
+        "AI_Deployer": "Disaster response authorities",
+        "AI_Subject": "People affected by disasters",
+        "Description": "The AI system intended to be used for supporting disaster response by extracting reliable place names from microblogs.",
+        "Location": "Louisiana, Houston (USA), Chennai (India)"
+    },
+    {
+        "Use": 112,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Understanding public sentiment during the pandemic",
+        "Capability": "Analyzing tweet sentiments",
+        "AI_Deployer": "Researchers, policymakers",
+        "AI_Subject": "Twitter users",
+        "Description": "The AI system intended to be used for analyzing tweet sentiments to understand public sentiment during the pandemic.",
+        "Location": "New York City, Los Angeles, London"
+    },
+    {
+        "Use": 113,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Providing user control over location data sharing",
+        "Capability": "Implementing dynamic data anonymization",
+        "AI_Deployer": "Social network users",
+        "AI_Subject": "Individuals sharing location data",
+        "Description": "The AI system intended to be used for providing user control over location data sharing by implementing dynamic data anonymization.",
+        "Location": "Global"
+    },
+    {
+        "Use": 114,
+        "Domain": "Urban Planning",
+        "Purpose": "Automating the rendering of urban master plans",
+        "Capability": "Generating urban plan renderings",
+        "AI_Deployer": "Urban planners, designers",
+        "AI_Subject": "Urban designs",
+        "Description": "The AI system intended to be used for automating the rendering of urban master plans.",
+        "Location": "Global"
+    },
+    {
+        "Use": 115,
+        "Domain": "Law enforcement",
+        "Purpose": "Reducing crime by identifying high-risk locations",
+        "Capability": "Analyzing crime patterns",
+        "AI_Deployer": "Police departments, city officials",
+        "AI_Subject": "Residents in crime-prone areas",
+        "Description": "The AI system intended to be used to reduce crime by identifying high-risk locations through the analysis of crime patterns.",
+        "Location": "Boston, USA"
+    },
+    {
+        "Use": 116,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mapping natural features for environmental monitoring",
+        "Capability": "Detecting natural terrain features from multi-source geospatial data",
+        "AI_Deployer": "Environmental scientists, geospatial researchers",
+        "AI_Subject": "Natural landscapes",
+        "Description": "The AI system intended to be used for mapping natural features for environmental monitoring by detecting natural terrain features from multi-source geospatial data.",
+        "Location": "United States"
+    },
+    {
+        "Use": 117,
+        "Domain": "Urban Planning",
+        "Purpose": "Extracting urban landmarks from spatial data",
+        "Capability": "Identifying urban landmarks from imbalanced spatial datasets using cost-sensitive learning",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Urban environment",
+        "Description": "The AI system intended to be used for extracting urban landmarks from spatial data to support urban planning.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 118,
+        "Domain": "Finance and Investment",
+        "Purpose": "Assessing impact of amenities on condo prices",
+        "Capability": "Identifying relationships using XGB with Google Maps data",
+        "AI_Deployer": "Public and private organizations",
+        "AI_Subject": "Condominium buyers",
+        "Description": "The AI system intended to be used for assessing the impact of amenities on condo prices by identifying relationships using XGB with Google Maps data.",
+        "Location": "Bangkok, Thailand"
+    },
+    {
+        "Use": 119,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Understanding drivers of wildfire events across regions",
+        "Capability": "Analyzing spatial and temporal factors affecting wildfire occurrences",
+        "AI_Deployer": "Environmental scientists, wildfire management authorities",
+        "AI_Subject": "Geographical areas prone to wildfires",
+        "Description": "The AI system intended to be used for understanding drivers of wildfire events across regions by analyzing spatial and temporal factors affecting wildfire occurrences.",
+        "Location": "United States"
+    },
+    {
+        "Use": 120,
+        "Domain": "Urban Planning",
+        "Purpose": "Quantifying public perceptions of urban landscapes",
+        "Capability": "Analyzing psychological and physical perception metrics using transfer learning and panoptic segmentation",
+        "AI_Deployer": "Urban planners and researchers",
+        "AI_Subject": "Residents in urban areas",
+        "Description": "The AI system intended to be used for quantifying public perceptions of urban landscapes by analyzing psychological and physical perception metrics.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 121,
+        "Domain": "Urban Planning",
+        "Purpose": "Understanding urban change",
+        "Capability": "Assessing construction and demolition patterns",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban communities",
+        "Description": "The AI system intended to be used by urban planning researchers to assess construction and demolition patterns within urban communities.",
+        "Location": "Shelby County, Tennessee, USA"
+    },
+    {
+        "Use": 122,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Detecting road intersection details",
+        "Capability": "Identifying road intersections using Mask-RCNN from GNSS trace data",
+        "AI_Deployer": "Urban transport planners",
+        "AI_Subject": "Road intersections in urban areas",
+        "Description": "The AI system intended to be used for detecting road intersection details by identifying road intersections using Mask-RCNN from GNSS trace data to assist urban transport planners.",
+        "Location": "Wuhan, Shanghai, Rome"
+    },
+    {
+        "Use": 123,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Mapping species distribution",
+        "Capability": "Predicting species occurrence from geographic data",
+        "AI_Deployer": "Conservation organizations",
+        "AI_Subject": "Species habitats",
+        "Description": "The AI system intended to be used for mapping species distribution by predicting species occurrence from geographic data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 124,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Assessing heavy metal concentration",
+        "Capability": "Predicting zinc levels from soil data",
+        "AI_Deployer": "Environmental researchers",
+        "AI_Subject": "Soil",
+        "Description": "The AI system intended to be used for assessing heavy metal concentration by predicting zinc levels from soil data.",
+        "Location": "Meuse floodplain, Netherlands"
+    },
+    {
+        "Use": 125,
+        "Domain": "Public and private transportation",
+        "Purpose": "Analyzing factors affecting public concern on autonomous vehicles",
+        "Capability": "Identifying socioeconomic and perceptual variables affecting attitudes towards autonomous vehicles",
+        "AI_Deployer": "Policymakers, automakers, insurance companies",
+        "AI_Subject": "Autonomous vehicle adoption and safety concerns",
+        "Description": "The AI system intended to be used for analyzing factors affecting public concern on autonomous vehicles by identifying socioeconomic and perceptual variables.",
+        "Location": "Puget Sound area, Washington, USA"
+    },
+    {
+        "Use": 126,
+        "Domain": "Urban Planning",
+        "Purpose": "Enhancing heritage area vitality",
+        "Capability": "Analyzing urban morphology with geospatial data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Heritage site communities",
+        "Description": "The AI system intended to be used for enhancing heritage area vitality by analyzing urban morphology with geospatial data.",
+        "Location": "Beijing, Shanghai, Tianjin, Guangzhou, Hangzhou, Wuhan, Chengdu, Nanjing, Qingdao, Shenyang, Changsha, Suzhou"
+    },
+    {
+        "Use": 127,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban growth",
+        "Capability": "Predicting urban expansion from land use data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban areas",
+        "Description": "The AI system intended to be used by researchers for simulating urban growth and predicting urban expansion from land use data.",
+        "Location": "Mashhad, Iran"
+    },
+    {
+        "Use": 128,
+        "Domain": "Innovation and Research",
+        "Purpose": "Integrating human judgment into machine learning processes",
+        "Capability": "Identifying human intervention points in topic modeling from smart city application data",
+        "AI_Deployer": "Smart city researchers",
+        "AI_Subject": "Urban processes",
+        "Description": "The AI system intended to be used for integrating human judgment into machine learning processes by identifying human intervention points in topic modeling from smart city application data.",
+        "Location": "Canada"
+    },
+    {
+        "Use": 129,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating land use and cover changes",
+        "Capability": "Modeling land use with Tensor-CA using GPU and vectorization",
+        "AI_Deployer": "Urban planners and environmental agencies",
+        "AI_Subject": "Land use changes in urban regions",
+        "Description": "The AI system intended to be used for simulating land use and cover changes by modeling land use with Tensor-CA using GPU and vectorization.",
+        "Location": "Pearl River Delta, China"
+    },
+    {
+        "Use": 130,
+        "Domain": "Social Media",
+        "Purpose": "Analyzing user mobility patterns",
+        "Capability": "Classifying user trajectories from check-in data",
+        "AI_Deployer": "Social media platforms",
+        "AI_Subject": "Platform users",
+        "Description": "The AI system intended to be used by social media platforms to analyze user mobility patterns by classifying user trajectories from check-in data.",
+        "Location": "Multiple cities globally"
+    },
+    {
+        "Use": 131,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting privacy of spatial data",
+        "Capability": "Obfuscating farm locations using geomasking",
+        "AI_Deployer": "Agricultural research institutions",
+        "AI_Subject": "Farmers",
+        "Description": "The AI system intended to be used for protecting the privacy of spatial data by obfuscating farm locations using geomasking, deployed by agricultural research institutions.",
+        "Location": "Republic of Ireland"
+    },
+    {
+        "Use": 132,
+        "Domain": "Innovation and Research",
+        "Purpose": "Evaluating economic and ecological efficiency of smart cities",
+        "Capability": "Assessing smart city pilots using directional distance function and DEA models",
+        "AI_Deployer": "Local governments and urban planners",
+        "AI_Subject": "Smart city pilots in China",
+        "Description": "The AI system intended to be used for evaluating economic and ecological efficiency of smart cities by assessing smart city pilots using directional distance function and DEA models.",
+        "Location": "Prefectural cities in China"
+    },
+    {
+        "Use": 133,
+        "Domain": "Education and Vocational Training",
+        "Purpose": "Assessing academic disparities between urban and rural schools",
+        "Capability": "Analyzing student performance in mathematics, science, and reading using machine learning",
+        "AI_Deployer": "Educational researchers",
+        "AI_Subject": "Students in urban and rural areas",
+        "Description": "The AI system intended to be used by educational researchers to assess academic disparities between urban and rural schools by analyzing student performance in mathematics, science, and reading using machine learning.",
+        "Location": "Urban and rural areas in China"
+    },
+    {
+        "Use": 134,
+        "Domain": "Finance and Investment",
+        "Purpose": "Evaluating green space impact on property value",
+        "Capability": "Analyzing housing prices from street view images",
+        "AI_Deployer": "Urban planners, real estate analysts",
+        "AI_Subject": "Homebuyers",
+        "Description": "The AI system intended to be used for evaluating the impact of green spaces on property values by analyzing housing prices from street view images.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 135,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Detecting interchanges in road networks",
+        "Capability": "Classifying interchange segments using graph data",
+        "AI_Deployer": "Urban planners, transport authorities",
+        "AI_Subject": "Drivers",
+        "Description": "The AI system intended to be used for detecting interchanges in road networks by classifying interchange segments using graph data for urban planners and transport authorities.",
+        "Location": "Beijing, Wuhan, China"
+    },
+    {
+        "Use": 136,
+        "Domain": "Law enforcement",
+        "Purpose": "Predicting crime using interpretable ML models",
+        "Capability": "Analyzing historical crime data and population demographics with XGBoost and SHAP",
+        "AI_Deployer": "Law enforcement agencies",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used by law enforcement agencies for predicting crime using interpretable ML models by analyzing historical crime data and population demographics with XGBoost and SHAP",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 137,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Optimizing urban design for heat mitigation",
+        "Capability": "Modeling heat exchange using machine learning",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Urban communities",
+        "Description": "The AI system intended to be used by urban planners to optimize urban design for heat mitigation through modeling heat exchange using machine learning, focusing on urban communities.",
+        "Location": "Phoenix, Arizona, USA"
+    },
+    {
+        "Use": 138,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Modeling urban growth for regional policy decision-making",
+        "Capability": "Predicting land-use changes using Random Forest with spatio-temporal data",
+        "AI_Deployer": "Regional policymakers and urban planners",
+        "AI_Subject": "Urban regions in Florida",
+        "Description": "The AI system intended to be used for modeling urban growth for regional policy decision-making by predicting land-use changes using Random Forest with spatio-temporal data.",
+        "Location": "Florida, USA"
+    },
+    {
+        "Use": 139,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Improving small area population forecasting",
+        "Capability": "Forecasting population changes using demographic models, machine learning, and ensemble methods",
+        "AI_Deployer": "Governments and local businesses",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for improving small area population forecasting by governments and local businesses, is capable of forecasting population changes using demographic models, machine learning, and ensemble methods.",
+        "Location": "Australia, New Zealand"
+    },
+    {
+        "Use": 140,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Quantifying urban trash accumulation",
+        "Capability": "Detecting trash using vehicle-mounted cameras",
+        "AI_Deployer": "Municipalities",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used by municipalities for quantifying urban trash accumulation through the detection of trash using vehicle-mounted cameras.",
+        "Location": "Salinas and Anaheim, California, USA"
+    },
+    {
+        "Use": 141,
+        "Domain": "Urban Planning",
+        "Purpose": "Classifying building functions in vector maps",
+        "Capability": "Detecting building functions using GraphSAGE with local and regional feature extraction",
+        "AI_Deployer": "Urban planners and government departments",
+        "AI_Subject": "Buildings in urban areas",
+        "Description": "The AI system intended to be used for classifying building functions in vector maps to assist urban planners and government departments in urban planning.",
+        "Location": "Nanjing, China"
+    },
+    {
+        "Use": 142,
+        "Domain": "Social and Community Services",
+        "Purpose": "Inferring neighborhood socioeconomic status",
+        "Capability": "Identifying topics and sentiment from housing advertisements",
+        "AI_Deployer": "Urban planners, policymakers",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used by urban planners and policymakers to infer neighborhood socioeconomic status by identifying topics and sentiment from housing advertisements.",
+        "Location": "Hangzhou, China"
+    },
+    {
+        "Use": 143,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Sharing location data securely",
+        "Capability": "Obfuscating location at neighborhood level",
+        "AI_Deployer": "Social networking platforms",
+        "AI_Subject": "Application users",
+        "Description": "The AI system intended to be used for sharing location data securely by obfuscating the location at neighborhood level on social networking platforms for application users.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 144,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Concealing home locations in user trajectories",
+        "Capability": "Applying context-aware trajectory truncation",
+        "AI_Deployer": "Geospatial data publishers",
+        "AI_Subject": "Location-based service users",
+        "Description": "The AI system intended to be used by geospatial data publishers to apply context-aware trajectory truncation in order to conceal home locations in user trajectories for location-based service users.",
+        "Location": "Urban areas globally"
+    },
+    {
+        "Use": 145,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Assessing urban land values for taxation",
+        "Capability": "Estimating land value using open data",
+        "AI_Deployer": "Local governments",
+        "AI_Subject": "Property owners",
+        "Description": "The AI system intended to be used for assessing urban land values for taxation by estimating land value using open data.",
+        "Location": "Fortaleza, Brazil"
+    },
+    {
+        "Use": 146,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Identifying waste accumulation zones",
+        "Capability": "Classifying urban areas from social indicators",
+        "AI_Deployer": "Local municipalities",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used by local municipalities to identify waste accumulation zones by classifying urban areas from social indicators.",
+        "Location": "Lima, Peru"
+    },
+    {
+        "Use": 147,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban land-use changes",
+        "Capability": "Mining land-use transition rules using deep forest algorithm",
+        "AI_Deployer": "Urban planners, city government",
+        "AI_Subject": "Urban areas and communities",
+        "Description": "The AI system intended to be used for simulating urban land-use changes by mining land-use transition rules using deep forest algorithm.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 148,
+        "Domain": "Social and Community Services",
+        "Purpose": "Identifying localized gentrification amenities",
+        "Capability": "Classifying Points of Interest from urban areas",
+        "AI_Deployer": "Urban planners, researchers",
+        "AI_Subject": "Urban neighborhoods",
+        "Description": "The AI system intended to be used for identifying localized gentrification amenities by classifying Points of Interest from urban areas.",
+        "Location": "Shenzhen, China"
+    },
+    {
+        "Use": 149,
+        "Domain": "Urban Planning",
+        "Purpose": "Understanding spatial relations between cities",
+        "Capability": "Modeling ternary spatial relations using neural networks",
+        "AI_Deployer": "Geospatial researchers",
+        "AI_Subject": "City locations",
+        "Description": "The AI system intended to be used for modeling ternary spatial relations between city locations by geospatial researchers.",
+        "Location": "Cities in California, USA"
+    },
+    {
+        "Use": 150,
+        "Domain": "Employment, workers management and access to self-employment",
+        "Purpose": "Predicting resilience of labor markets after natural shocks",
+        "Capability": "Modeling economic recovery using machine learning with historical data",
+        "AI_Deployer": "Regional policymakers and economists",
+        "AI_Subject": "Labor markets in rural and inner municipalities",
+        "Description": "The AI system intended to be used for predicting the resilience of labor markets in rural and inner municipalities after natural shocks by modeling economic recovery using machine learning with historical data.",
+        "Location": "Central Italy"
+    },
+    {
+        "Use": 151,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "Collaborative street network design",
+        "Capability": "Generating street networks from user input and planning data",
+        "AI_Deployer": "Urban planners, laypersons",
+        "AI_Subject": "Residents, city stakeholders",
+        "Description": "The AI system intended to be used for collaborative street network design by generating street networks from user input and planning data, aimed at urban planners and laypersons.",
+        "Location": "Amsterdam, Barcelona, Berlin, Prague"
+    },
+    {
+        "Use": 152,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Evaluating street flooding risks",
+        "Capability": "Analyzing flood patterns from complaint data",
+        "AI_Deployer": "City government agencies",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used for evaluating street flooding risks by analyzing flood patterns from complaint data.",
+        "Location": "New York City, USA"
+    },
+    {
+        "Use": 153,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Evaluating landslide susceptibility",
+        "Capability": "Aggregating geographic data using GNN constrained by environmental consistency",
+        "AI_Deployer": "Geological researchers",
+        "AI_Subject": "Geographic regions prone to landslides",
+        "Description": "The AI system intended to be used for evaluating landslide susceptibility by aggregating geographic data using GNN.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 154,
+        "Domain": "Public and private transportation",
+        "Purpose": "Improving flow prediction in bike-sharing systems",
+        "Capability": "Modeling spatial closeness, temporal variations, and community structures from bike-sharing system data",
+        "AI_Deployer": "Urban transportation operators",
+        "AI_Subject": "Bike-sharing system users",
+        "Description": "The AI system intended to be used for improving flow prediction in bike-sharing systems by modeling spatial closeness, temporal variations, and community structures.",
+        "Location": "Chicago, USA"
+    },
+    {
+        "Use": 155,
+        "Domain": "Urban Planning",
+        "Purpose": "Recognizing urban land use classes",
+        "Capability": "Classifying land use using features from mobile-phone-call time series",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "Residents, urban areas",
+        "Description": "The AI system intended to be used for recognizing urban land use classes by classifying land use with mobile phone call time series data.",
+        "Location": "Wuhan, China"
+    },
+    {
+        "Use": 156,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Predicting waterlogged zones under rainfall",
+        "Capability": "Modeling flood-prone areas using GIS data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Residents in flood-prone areas",
+        "Description": "The AI system intended to be used for predicting waterlogged zones under rainfall by modeling flood-prone areas using GIS data and to assist urban planners in making informed decisions to mitigate flood risks for residents in those areas.",
+        "Location": "Mumbai, India"
+    },
+    {
+        "Use": 157,
+        "Domain": "Innovation and Research",
+        "Purpose": "Enhancing regional green-tech specialization",
+        "Capability": "Applying local AI knowledge to drive green innovation",
+        "AI_Deployer": "Regional development agencies",
+        "AI_Subject": "Regional businesses",
+        "Description": "The AI system intended to be used by regional development agencies to enhance regional green-tech specialization by applying local AI knowledge to drive green innovation among regional businesses.",
+        "Location": "EU-28 regions"
+    },
+    {
+        "Use": 158,
+        "Domain": "Finance and Investment",
+        "Purpose": "Predicting housing prices for investment",
+        "Capability": "Incorporating spatial proximity and temporal sale trends using ML",
+        "AI_Deployer": "Real estate investors",
+        "AI_Subject": "Homebuyers and property owners",
+        "Description": "The AI system intended to be used for predicting housing prices for investment by incorporating spatial proximity and temporal sale trends.",
+        "Location": "Adelaide, Australia"
+    },
+    {
+        "Use": 159,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Classifying land use for resource management",
+        "Capability": "Using neural networks on satellite data",
+        "AI_Deployer": "Environmental researchers",
+        "AI_Subject": "Land areas",
+        "Description": "The AI system intended to be used for classifying land use from satellite data to guide resource management decisions by environmental researchers.",
+        "Location": "Yazd plain-Ardakan, Iran"
+    },
+    {
+        "Use": 160,
+        "Domain": "Finance and Investment",
+        "Purpose": "Mass appraisal of residential properties",
+        "Capability": "Predicting property prices using tree-based ML models",
+        "AI_Deployer": "Real estate appraisers",
+        "AI_Subject": "Property owners",
+        "Description": "The AI system intended to be used for mass appraisal of residential properties by predicting property prices using tree-based ML models.",
+        "Location": "Yenişehir district, Mersin, Turkey"
+    },
+    {
+        "Use": 161,
+        "Domain": "Public and private transportation",
+        "Purpose": "Optimizing ride-hailing services",
+        "Capability": "Learning optimal dispatch and repositioning strategies from driver and passenger data",
+        "AI_Deployer": "Ride-hailing companies",
+        "AI_Subject": "Drivers, passengers",
+        "Description": "The AI system intended to be used for optimizing ride-hailing services by learning optimal dispatch and repositioning strategies from driver and passenger data.",
+        "Location": "Chengdu, China"
+    },
+    {
+        "Use": 162,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Analyzing water quality to determine potability",
+        "Capability": "Classifying water quality using machine learning techniques like decision trees and random forests",
+        "AI_Deployer": "Environmental agencies and urban planners",
+        "AI_Subject": "Urban water sources",
+        "Description": "The AI system intended to be used for analyzing water quality to determine potability by classifying water quality using machine learning techniques like decision trees and random forests.",
+        "Location": "Multiple urban locations"
+    },
+    {
+        "Use": 163,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Identifying marine litter on beaches and coastal areas",
+        "Capability": "Classifying types of litter using machine learning algorithms",
+        "AI_Deployer": "Environmental agencies and conservationists",
+        "AI_Subject": "Beach and coastal areas",
+        "Description": "The AI system intended to be used for identifying marine litter on beaches and coastal areas, leveraging machine learning algorithms for classification purposes.",
+        "Location": "Multiple global locations"
+    },
+    {
+        "Use": 164,
+        "Domain": "Education and Vocational Training",
+        "Purpose": "Mitigating discrimination impacts on academic performance",
+        "Capability": "Generating synthetic data to assess discrimination effects on migrant students",
+        "AI_Deployer": "Educational policymakers, school administrators",
+        "AI_Subject": "Migrant students",
+        "Description": "The AI system intended to be used for generating synthetic data to assess discrimination effects on migrant students in the domain of education and vocational training.",
+        "Location": "China"
+    },
+    {
+        "Use": 165,
+        "Domain": "Innovation and Research",
+        "Purpose": "Modeling innovation across changing territories",
+        "Capability": "Analyzing dynamic regional innovation using ML",
+        "AI_Deployer": "Regional economic planners",
+        "AI_Subject": "Local production systems",
+        "Description": "The AI system intended to be used by regional economic planners for modeling innovation across changing territories by analyzing dynamic regional innovation using machine learning.",
+        "Location": "Spain"
+    },
+    {
+        "Use": 166,
+        "Domain": "Innovation and Research",
+        "Purpose": "Generalizing mountain roads for map legibility",
+        "Capability": "Transforming road maps using GANs",
+        "AI_Deployer": "Cartographic agencies",
+        "AI_Subject": "Map users",
+        "Description": "The AI system intended to be used for generalizing mountain roads for map legibility by transforming road maps using GANs.",
+        "Location": "France"
+    },
+    {
+        "Use": 167,
+        "Domain": "Finance and Investment",
+        "Purpose": "Predicting property value",
+        "Capability": "Modeling property prices using Random Forest, Gradient Boosting, and HPM with location-based attributes",
+        "AI_Deployer": "Property stakeholders and policymakers",
+        "AI_Subject": "Properties in Greater Sydney Region",
+        "Description": "The AI system intended to be used for predicting property value by modeling property prices with Random Forest, Gradient Boosting, and HPM using location-based attributes.",
+        "Location": "Greater Sydney Region, Australia"
+    },
+    {
+        "Use": 168,
+        "Domain": "Social and Community Services",
+        "Purpose": "Assessing urban green space inequalities",
+        "Capability": "Evaluating green space using machine learning on street view data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for assessing urban green space inequalities by evaluating green spaces using street view data.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 169,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Identifying place functionality from user reviews",
+        "Capability": "Extracting functional attributes from text content",
+        "AI_Deployer": "Tourism platforms",
+        "AI_Subject": "Travelers and tourists",
+        "Description": "The AI system intended to be used by tourism platforms to extract functional attributes from traveler and tourist reviews for identifying place functionality.",
+        "Location": "New York City, USA"
+    },
+    {
+        "Use": 170,
+        "Domain": "Urban Planning",
+        "Purpose": "Managing curb space for diverse uses",
+        "Capability": "Predicting curbside demands using spatio-temporal ML models",
+        "AI_Deployer": "City planners",
+        "AI_Subject": "Urban commuters",
+        "Description": "The AI system intended to be used for managing curb space for diverse uses by predicting curbside demands using spatio-temporal ML models.",
+        "Location": "San Francisco, CA; Gainesville, FL"
+    },
+    {
+        "Use": 171,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Protecting privacy of agricultural data",
+        "Capability": "Obfuscating field parcel data from polygon attributes",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Farmers",
+        "Description": "The AI system intended to be used for protecting privacy of agricultural data by obfuscating field parcel data.",
+        "Location": "Ireland"
+    },
+    {
+        "Use": 172,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Analyzing flood hazard risk",
+        "Capability": "Classifying flood risk areas using features from satellite images and survey data",
+        "AI_Deployer": "Environmental researchers, government agencies",
+        "AI_Subject": "Residents in flood-prone areas",
+        "Description": "The AI system intended to be used for analyzing flood hazard risk by classifying flood risk areas using features from satellite images and survey data.",
+        "Location": "Vietnam"
+    },
+    {
+        "Use": 173,
+        "Domain": "Social and Community Services",
+        "Purpose": "Modeling rural depopulation risk",
+        "Capability": "Analyzing income levels, employment rates, and agricultural land use with ML",
+        "AI_Deployer": "Regional governments",
+        "AI_Subject": "Rural residents",
+        "Description": "The AI system intended to be used for modeling rural depopulation risk by analyzing income levels, employment rates, and agricultural land use.",
+        "Location": "Spain"
+    },
+    {
+        "Use": 174,
+        "Domain": "Urban Planning",
+        "Purpose": "Simulating urban resilience",
+        "Capability": "Modeling city dynamics through digital twins",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Urban communities",
+        "Description": "The AI system intended to be used for simulating urban resilience by modeling city dynamics through digital twins.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 175,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Mapping smallholder plantations",
+        "Capability": "Detecting oil palm trees from high-resolution satellite imagery",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Smallholder farmers",
+        "Description": "The AI system intended to be used for detecting oil palm trees from high-resolution satellite imagery to map smallholder plantations for agricultural research purposes.",
+        "Location": "Muaro Jambi, Indonesia"
+    },
+    {
+        "Use": 176,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Improving census participation",
+        "Capability": "Evaluating outreach activities using machine learning from census data",
+        "AI_Deployer": "State government agencies",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for improving census participation by evaluating outreach activities using machine learning from census data.",
+        "Location": "Illinois, USA"
+    },
+    {
+        "Use": 177,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Preserving privacy of aggregated data",
+        "Capability": "Reassigning data records of high-risk individuals to minimize disclosure risk",
+        "AI_Deployer": "Geographic data agencies",
+        "AI_Subject": "Residents",
+        "Description": "The AI system intended to be used for preserving the privacy of aggregated data by reassigning data records of high-risk individuals to minimize disclosure risk.",
+        "Location": "Ohio, USA"
+    },
+    {
+        "Use": 178,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Optimizing urban logistics routes",
+        "Capability": "Finding efficient delivery paths using hybrid algorithms from logistics data",
+        "AI_Deployer": "Logistics companies",
+        "AI_Subject": "Urban residents",
+        "Description": "The AI system intended to be used for optimizing urban logistics routes by finding efficient delivery paths using hybrid algorithms from logistics data.",
+        "Location": "Wuhan, China"
+    },
+    {
+        "Use": 179,
+        "Domain": "Social and Community Services",
+        "Purpose": "Assessing water access inequality",
+        "Capability": "Clustering underserved communities using water access data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Residents of colonias",
+        "Description": "The AI system intended to be used for clustering underserved communities using water access data to assess water access inequality.",
+        "Location": "United States-Mexico border region"
+    },
+    {
+        "Use": 180,
+        "Domain": "Urban Planning",
+        "Purpose": "Quantifying landscape value from public perception",
+        "Capability": "Analyzing online texts with deep learning and sentiment analysis",
+        "AI_Deployer": "Landscape researchers",
+        "AI_Subject": "Public landscape users",
+        "Description": "The AI system intended to be used for quantifying landscape value from public perception by analyzing online texts with deep learning and sentiment analysis.",
+        "Location": "Orange Islands, Changsha, China"
+    },
+    {
+        "Use": 181,
+        "Domain": "Law enforcement",
+        "Purpose": "Auditing fairness of crime predictions",
+        "Capability": "Evaluating prediction fairness using demographic data and deep learning",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for auditing the fairness of crime predictions by evaluating prediction fairness using demographic data and deep learning.",
+        "Location": "Baltimore, Minneapolis, Austin, Chicago"
+    },
+    {
+        "Use": 182,
+        "Domain": "Urban Planning",
+        "Purpose": "Classifying building usage",
+        "Capability": "Predicting residential or non-residential usage using Random Forest from building attributes",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Buildings",
+        "Description": "The AI system intended to be used to classify building usage into residential or non-residential categories by analyzing building attributes using a Random Forest algorithm.",
+        "Location": "Germany"
+    },
+    {
+        "Use": 183,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "Advising nonprofessionals on land use",
+        "Capability": "Generating land use plans using GANs",
+        "AI_Deployer": "Nonprofessional participants",
+        "AI_Subject": "Urban communities",
+        "Description": "The AI system intended to be used for advising nonprofessional participants on urban community land use by generating plans utilizing Generative Adversarial Networks (GANs).",
+        "Location": "Sewoon-Sangga district, Seoul, South Korea"
+    },
+    {
+        "Use": 184,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "Explaining urban image analysis",
+        "Capability": "Providing counterfactual explanations using street image data",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Urban planners",
+        "Description": "The AI system intended to be used for explaining urban image analysis to assist researchers and urban planners by providing counterfactual explanations using street image data.",
+        "Location": "London, UK"
+    },
+    {
+        "Use": 185,
+        "Domain": "Energy",
+        "Purpose": "Managing energy consumption and grid stability",
+        "Capability": "Monitoring energy use and predicting peak demand using smart grids",
+        "AI_Deployer": "Energy service providers",
+        "AI_Subject": "Energy consumers",
+        "Description": "The AI system intended to be used by energy service providers to monitor energy use and predict peak demand utilizing smart grids for managing energy consumption and grid stability.",
+        "Location": "Italy, France, Germany, United Kingdom"
+    },
+    {
+        "Use": 186,
+        "Domain": "Urban Planning",
+        "Purpose": "Estimating land cover fractions from satellite imagery",
+        "Capability": "Classifying urban and suburban environments using spectral indices",
+        "AI_Deployer": "Geographers, remote sensing specialists",
+        "AI_Subject": "Urban dwellers",
+        "Description": "The AI system intended to be used for estimating land cover fractions from satellite imagery by classifying urban and suburban environments.",
+        "Location": "Milwaukee and Waukesha, Wisconsin, USA"
+    },
+    {
+        "Use": 187,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Integrating and analyzing urban sensor data streams",
+        "Capability": "Discovering and federating heterogeneous IoT data streams",
+        "AI_Deployer": "Smart city platform operators",
+        "AI_Subject": "City infrastructure and residents",
+        "Description": "The AI system intended to be used for integrating and analyzing urban sensor data streams to manage and operate city infrastructure and monitor residents within a smart city environment.",
+        "Location": "Aarhus"
+    },
+    {
+        "Use": 188,
+        "Domain": "Energy",
+        "Purpose": "Managing energy consumption on a university campus",
+        "Capability": "Optimizing photovoltaic generation and battery energy storage",
+        "AI_Deployer": "University administrators, energy managers",
+        "AI_Subject": "Occupants of campus buildings",
+        "Description": "The AI system intended to be used for managing energy consumption on a university campus by optimizing photovoltaic generation and battery energy storage.",
+        "Location": "Belém, Brazil"
+    },
+    {
+        "Use": 189,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Modeling traffic flows",
+        "Capability": "Simulating traffic behavior",
+        "AI_Deployer": "City governments, transportation authorities",
+        "AI_Subject": "Drivers, commuters",
+        "Description": "The AI system intended to be used for modeling traffic flows to simulate traffic behavior in urban settings.",
+        "Location": "Samara, Russia"
+    },
+    {
+        "Use": 190,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Improving urban services and governance",
+        "Capability": "Analyzing urban data using ICT for smart city management",
+        "AI_Deployer": "City governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by city governments for analyzing urban data using ICT to improve services and governance for city residents.",
+        "Location": "Quebec City, Mexico City, Seattle, Philadelphia, New York City"
+    },
+    {
+        "Use": 191,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Planning human-aware UAV paths in urban environments",
+        "Capability": "Predicting human population densities",
+        "AI_Deployer": "UAV operators, urban planners",
+        "AI_Subject": "City residents, pedestrians",
+        "Description": "The AI system intended to be used for planning human-aware UAV paths in urban environments by predicting human population densities.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 192,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Enabling autonomous navigation by segmenting urban scenes",
+        "Capability": "Segmenting urban scenes from 3D point clouds",
+        "AI_Deployer": "Robotics and autonomous systems researchers",
+        "AI_Subject": "Urban environments and road users",
+        "Description": "The AI system intended to be used for enabling autonomous navigation by segmenting urban scenes from 3D point clouds.",
+        "Location": "KITTI dataset (used in various urban settings)"
+    },
+    {
+        "Use": 193,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing energy consumption in microgrids",
+        "Capability": "Optimizing energy distribution and load management",
+        "AI_Deployer": "Building managers, energy service providers",
+        "AI_Subject": "Building occupants, energy consumers",
+        "Description": "The AI system intended to be used for managing energy consumption in microgrids, by optimizing energy distribution and load management.",
+        "Location": "Heerlen, Netherlands"
+    },
+    {
+        "Use": 194,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Aligning geographic features in historical maps",
+        "Capability": "Automatically matching contemporary vector data with historical maps",
+        "AI_Deployer": "Geospatial analysts, government agencies",
+        "AI_Subject": "Unknown",
+        "Description": "The AI system intended to be used for aligning geographic features in historical maps by automatically matching contemporary vector data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 195,
+        "Domain": "Energy",
+        "Purpose": "Improving energy management in buildings",
+        "Capability": "Analyzing building operational data for fault detection and efficiency",
+        "AI_Deployer": "Facility managers, energy analysts",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for improving energy management in buildings by analyzing operational data for fault detection and efficiency.",
+        "Location": "Vienna, Austria"
+    },
+    {
+        "Use": 196,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing energy consumption in smart buildings",
+        "Capability": "Monitoring and controlling energy consumption using IoT sensors and actuators",
+        "AI_Deployer": "Building managers, energy managers",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for managing energy consumption in smart buildings by monitoring and controlling energy consumption using IoT sensors and actuators.",
+        "Location": "Sfax, Tunisia"
+    },
+    {
+        "Use": 197,
+        "Domain": "Innovation and Research",
+        "Purpose": "Classifying urban objects for urban analysis",
+        "Capability": "Detecting, segmenting, and classifying objects",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "City residents, pedestrians",
+        "Description": "The AI system intended to be used for classifying urban objects for urban analysis by detecting, segmenting, and classifying objects.",
+        "Location": "Paris, France; Ohio, USA"
+    },
+    {
+        "Use": 198,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy consumption in building design",
+        "Capability": "Generating and testing building designs using energy simulation",
+        "AI_Deployer": "Architects, building designers",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing energy consumption in building design by generating and testing various building layouts using energy simulation techniques.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 199,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy efficiency in building design",
+        "Capability": "Controlling and estimating energy usage",
+        "AI_Deployer": "Building designers, energy managers",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing energy efficiency in building design by controlling and estimating energy usage.",
+        "Location": "Blacksburg, USA"
+    },
+    {
+        "Use": 200,
+        "Domain": "Innovation and Research",
+        "Purpose": "Detecting and mapping roads and buildings from aerial imagery",
+        "Capability": "Classifying image pixels into road and building segments",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "City infrastructure and residents",
+        "Description": "The AI system intended to be used for detecting and mapping roads and buildings from aerial imagery by classifying image pixels into road and building segments.",
+        "Location": "Vaihingen, Germany"
+    },
+    {
+        "Use": 201,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Automating response to urban events in real time",
+        "Capability": "Converting sensor data into actionable events for city management",
+        "AI_Deployer": "City administrators, urban planners",
+        "AI_Subject": "City residents and visitors",
+        "Description": "The AI system intended to be used to automate response to urban events in real time by converting sensor data into actionable events for city management.",
+        "Location": "Iasi, Romania"
+    },
+    {
+        "Use": 202,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Improving the placement of roadside units for better vehicle communication",
+        "Capability": "Maximizing communication coverage and reducing energy consumption.",
+        "AI_Deployer": "Urban planners, network operators",
+        "AI_Subject": "Drivers, city residents",
+        "Description": "The AI system intended to be used for improving the placement of roadside units for better vehicle communication by maximizing communication coverage and reducing energy consumption.",
+        "Location": "Japan"
+    },
+    {
+        "Use": 203,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Managing energy use and climate impact in smart cities",
+        "Capability": "Monitoring and visualizing energy consumption using smart meters",
+        "AI_Deployer": "City planners, energy service providers",
+        "AI_Subject": "Residents, businesses",
+        "Description": "The AI system intended to be used for managing energy use and climate impact in smart cities by monitoring and visualizing energy consumption using smart meters.",
+        "Location": "Stockholm"
+    },
+    {
+        "Use": 204,
+        "Domain": "Urban Planning",
+        "Purpose": "Quantifying urban safety based on visual perception",
+        "Capability": "Estimating safety scores from street-view images",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "Residents, city visitors",
+        "Description": "The AI system intended to be used for quantifying urban safety based on visual perception by estimating safety scores from street-view images.",
+        "Location": "San Diego, USA"
+    },
+    {
+        "Use": 205,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Optimizing motion planning for crane operation",
+        "Capability": "Generating energy-efficient crane trajectories",
+        "AI_Deployer": "Industrial operators, engineers",
+        "AI_Subject": "Unknown",
+        "Description": "The AI system intended to be used for optimizing motion planning for energy-efficient crane trajectories in industrial settings.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 206,
+        "Domain": "Innovation and Research",
+        "Purpose": "Improving geolocalization accuracy in urban environments",
+        "Capability": "Aligning images with 2.5D maps",
+        "AI_Deployer": "Urban planners, navigation system operators",
+        "AI_Subject": "Pedestrians, drivers",
+        "Description": "The AI system intended to be used for improving geolocalization accuracy in urban environments by aligning images with 2.5D maps.",
+        "Location": "Graz, Austria"
+    },
+    {
+        "Use": 207,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Enhancing security and privacy in smart buildings",
+        "Capability": "Monitoring IoT-enabled systems for vulnerabilities and threats",
+        "AI_Deployer": "Building managers, cybersecurity professionals",
+        "AI_Subject": "Smart building occupants",
+        "Description": "The AI system intended to be used for enhancing security and privacy in smart buildings by monitoring IoT-enabled systems for vulnerabilities and threats.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 208,
+        "Domain": "Energy",
+        "Purpose": "Planning energy use for residential buildings",
+        "Capability": "Modeling energy consumption and emissions",
+        "AI_Deployer": "City governments, policy makers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for planning energy use in residential buildings by modeling energy consumption and emissions.",
+        "Location": "Bari, Italy"
+    },
+    {
+        "Use": 209,
+        "Domain": "Energy",
+        "Purpose": "Optimizing urban microgrid planning",
+        "Capability": "Modeling and analyzing distributed energy resources",
+        "AI_Deployer": "City planners, energy service providers",
+        "AI_Subject": "City residents, energy consumers",
+        "Description": "The AI system intended to be used for optimizing urban microgrid planning by modeling and analyzing distributed energy resources.",
+        "Location": "Canada"
+    },
+    {
+        "Use": 210,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Detecting and classifying threats in surveillance",
+        "Capability": "Identifying threats from UAV surveillance data using autonomous systems",
+        "AI_Deployer": "Military and defense operators",
+        "AI_Subject": "Potential threat actors",
+        "Description": "The AI system intended to be used for detecting and classifying threats in surveillance, specifically from UAV surveillance data by military and defense operators.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 211,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Optimizing energy distribution between metro systems and electric vehicles",
+        "Capability": "Forecasting and balancing energy flow between energy resources",
+        "AI_Deployer": "Metro systems operators",
+        "AI_Subject": "Metro and electric vehicle systems",
+        "Description": "The AI system intended to be used for optimizing energy distribution between metro systems and electric vehicles, functioning by forecasting and balancing energy flow.",
+        "Location": "Madrid"
+    },
+    {
+        "Use": 212,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy consumption in university campus buildings",
+        "Capability": "Scheduling HVAC systems based on zone occupancy patterns",
+        "AI_Deployer": "University campus administrators",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing energy consumption in university campus buildings by scheduling HVAC systems based on zone occupancy patterns.",
+        "Location": "University campus"
+    },
+    {
+        "Use": 213,
+        "Domain": "Law enforcement",
+        "Purpose": "Reducing aggression in public spaces",
+        "Capability": "Detecting aggressive behavior from CCTV and sensor data",
+        "AI_Deployer": "Municipality of Eindhoven, Police",
+        "AI_Subject": "Visitors to entertainment areas",
+        "Description": "The AI system intended to be used by the Municipality of Eindhoven and the local police to detect aggressive behavior from CCTV and sensor data in entertainment areas to reduce aggression in public spaces.",
+        "Location": "Eindhoven, Netherlands"
+    },
+    {
+        "Use": 214,
+        "Domain": "Smart home",
+        "Purpose": "Optimizing energy consumption and occupant comfort in smart buildings",
+        "Capability": "Managing building elements using human behavior models",
+        "AI_Deployer": "Building managers, energy system operators",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing energy consumption and occupant comfort in smart buildings by managing building elements based on human behavior models.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 215,
+        "Domain": "Innovation and Research",
+        "Purpose": "Improving semantic segmentation of urban traffic scenes",
+        "Capability": "Segmenting urban traffic scenes using curriculum domain adaptation",
+        "AI_Deployer": "Autonomous vehicle developers, AI researchers",
+        "AI_Subject": "Urban traffic participants",
+        "Description": "The AI system intended to be used for improving semantic segmentation of urban traffic scenes using curriculum domain adaptation for autonomous vehicle developers and AI researchers.",
+        "Location": "50 cities (e.g., Germany)"
+    },
+    {
+        "Use": 216,
+        "Domain": "Urban Planning",
+        "Purpose": "Generating adaptable architectural designs",
+        "Capability": "Applying variation, selection, and replication processes to building design",
+        "AI_Deployer": "Architects, urban planners",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for generating adaptable architectural designs by applying variation, selection, and replication processes to building design.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 217,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy management in smart cities",
+        "Capability": "Integrating and analyzing data from renewable sources and energy systems",
+        "AI_Deployer": "City governments, energy service providers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for optimizing energy management in smart cities by integrating and analyzing data from renewable sources and energy systems.",
+        "Location": "Madrid, Spain"
+    },
+    {
+        "Use": 218,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Coordinating train operations to reduce energy consumption",
+        "Capability": "Using train-to-train communication to coordinate braking and accelerating regimes",
+        "AI_Deployer": "City governments, urban rail operators",
+        "AI_Subject": "Train passengers, commuters",
+        "Description": "The AI system intended to be used for coordinating train operations to reduce energy consumption by using train-to-train communication to coordinate braking and accelerating regimes.",
+        "Location": "Guangzhou, China"
+    },
+    {
+        "Use": 219,
+        "Domain": "Innovation and Research",
+        "Purpose": "Classifying land cover in urban areas",
+        "Capability": "Integrating and analyzing thermal and visible hyperspectral images for land classification",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "Urban dwellers",
+        "Description": "The AI system intended to be used for classifying land cover in urban areas by integrating and analyzing thermal and visible hyperspectral images.",
+        "Location": "Thetford Mines, Québec, Canada"
+    },
+    {
+        "Use": 220,
+        "Domain": "Energy",
+        "Purpose": "Designing smart energy systems",
+        "Capability": "Analyzing spatiotemporal energy demand and renewable supply patterns",
+        "AI_Deployer": "City energy planners, utility companies",
+        "AI_Subject": "Urban residents, energy consumers",
+        "Description": "The AI system intended to be used for designing smart energy systems by analyzing spatiotemporal energy demand and renewable supply patterns to optimize usage for urban residents and energy consumers.",
+        "Location": "Delhi, Shanghai, Helsinki"
+    },
+    {
+        "Use": 221,
+        "Domain": "Energy",
+        "Purpose": "Optimizing urban building energy consumption",
+        "Capability": "Simulating energy use scenarios",
+        "AI_Deployer": "Urban planners, energy analysts",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing urban building energy consumption through the simulation of energy use scenarios.",
+        "Location": "London, UK"
+    },
+    {
+        "Use": 222,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Optimizing waste collection",
+        "Capability": "Collecting and analyzing data from IoT sensors to predict waste levels",
+        "AI_Deployer": "City councils, waste management companies",
+        "AI_Subject": "City residents, waste generators",
+        "Description": "The AI system intended to be used for optimizing waste collection by collecting and analyzing data from IoT sensors to predict waste levels.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 223,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing smart transportation systems in cities",
+        "Capability": "Optimizing traffic flow and reducing congestion",
+        "AI_Deployer": "City governments, transportation authorities",
+        "AI_Subject": "Drivers, commuters",
+        "Description": "The AI system intended to be used for managing smart transportation systems in cities by optimizing traffic flow and reducing congestion.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 224,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Improving air quality and public health",
+        "Capability": "Analyzing environmental and traffic data using smart nodes",
+        "AI_Deployer": "City officials and urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for analyzing environmental and traffic data using smart nodes to improve air quality and public health.",
+        "Location": "Chicago, USA"
+    },
+    {
+        "Use": 225,
+        "Domain": "Well-being",
+        "Purpose": "Mapping urban noise levels",
+        "Capability": "Modeling and interpolating noise data from traffic and buildings",
+        "AI_Deployer": "Urban planners, environmental agencies",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for mapping urban noise levels by modeling and interpolating noise data from traffic and buildings.",
+        "Location": "Lorient, France"
+    },
+    {
+        "Use": 226,
+        "Domain": "Law enforcement",
+        "Purpose": "Monitoring urban environments for surveillance and safety",
+        "Capability": "Analyzing data from CCTV and sensor networks to detect suspicious behavior",
+        "AI_Deployer": "City governments, law enforcement agencies",
+        "AI_Subject": "City residents, visitors",
+        "Description": "The AI system intended to be used for monitoring urban environments for surveillance and safety by analyzing data from CCTV and sensor networks to detect suspicious behavior.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 227,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Enabling autonomous robots to navigate urban environments",
+        "Capability": "Classifying urban objects from laser and vision data",
+        "AI_Deployer": "Robotics researchers, urban mobility engineers",
+        "AI_Subject": "City residents, pedestrians",
+        "Description": "The AI system intended to be used for enabling autonomous robots to navigate urban environments by classifying urban objects from laser and vision data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 228,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing urban water resources",
+        "Capability": "Modeling water flows and optimizing reservoir operations",
+        "AI_Deployer": "Water utility companies, city planners",
+        "AI_Subject": "City residents, water consumers",
+        "Description": "The AI system intended to be used for managing urban water resources by modeling water flows and optimizing reservoir operations.",
+        "Location": "Athens, Greece"
+    },
+    {
+        "Use": 229,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Navigating and mapping indoor environments",
+        "Capability": "Mapping environments and guiding agents using semantic and appearance data",
+        "AI_Deployer": "Robotics researchers, indoor navigation developers",
+        "AI_Subject": "Indoor agents, such as robots",
+        "Description": "The AI system intended to be used for navigating and mapping indoor environments by mapping environments and guiding agents using semantic and appearance data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 230,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Predicting energy demand",
+        "Capability": "Forecasting energy usage from building and weather data",
+        "AI_Deployer": "Energy service companies, urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for predicting energy demand by forecasting energy usage from building and weather data.",
+        "Location": "Valladolid"
+    },
+    {
+        "Use": 231,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Optimizing transportation systems",
+        "Capability": "Autonomously controlling transportation operations",
+        "AI_Deployer": "City governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used to autonomously control transportation operations for optimizing city transportation systems.",
+        "Location": "Masdar City, Abu Dhabi"
+    },
+    {
+        "Use": 232,
+        "Domain": "Urban Planning",
+        "Purpose": "Generating urban land use configurations",
+        "Capability": "Generating land-use configurations from surrounding contexts",
+        "AI_Deployer": "Urban planners, city developers",
+        "AI_Subject": "Residents, city dwellers",
+        "Description": "The AI system intended to be used for generating urban land use configurations by analyzing surrounding contexts to aid urban planners and city developers.",
+        "Location": "Beijing"
+    },
+    {
+        "Use": 233,
+        "Domain": "Urban Planning",
+        "Purpose": "Optimizing building layouts to meet design guidelines",
+        "Capability": "Generating two-dimensional housing layouts by learning design constraints",
+        "AI_Deployer": "Architectural designers",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for optimizing building layouts to meet design guidelines by generating two-dimensional housing layouts through learning design constraints.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 234,
+        "Domain": "Urban Planning",
+        "Purpose": "Transforming cities into smart cities",
+        "Capability": "Analyzing urban data and infrastructure for smart city development",
+        "AI_Deployer": "City governments, urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by city governments and urban planners to analyze urban data and infrastructure for transforming cities into smart cities, focusing on enhancing efficiency and sustainability.",
+        "Location": "Granada, Spain; Madrid, Spain; Barcelona, Spain"
+    },
+    {
+        "Use": 235,
+        "Domain": "Urban Planning",
+        "Purpose": "Generating multi-scale building maps from aerial imagery",
+        "Capability": "Detecting and generalizing building structures",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for generating multi-scale building maps from aerial imagery by detecting and generalizing building structures, aiding urban planners and government agencies.",
+        "Location": "Hameln, Germany"
+    },
+    {
+        "Use": 236,
+        "Domain": "Urban Planning",
+        "Purpose": "Improving urban planning and management",
+        "Capability": "Classifying urban features",
+        "AI_Deployer": "Urban planners, city governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for improving urban planning and management by classifying urban features.",
+        "Location": "China"
+    },
+    {
+        "Use": 237,
+        "Domain": "Energy",
+        "Purpose": "Assessing energy performance of urban buildings",
+        "Capability": "Analyzing energy consumption from GIS data, thermal performance, and weather data",
+        "AI_Deployer": "Urban planners, building energy analysts",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for assessing energy performance of urban buildings by analyzing energy consumption from GIS data, thermal performance, and weather data.",
+        "Location": "Tianjin, China"
+    },
+    {
+        "Use": 238,
+        "Domain": "Urban Planning",
+        "Purpose": "Predicting human motion in urban environments",
+        "Capability": "Predicting human occupancy patterns from semantic maps",
+        "AI_Deployer": "Urban planners, transportation authorities",
+        "AI_Subject": "City residents, pedestrians",
+        "Description": "The AI system intended to be used to predict human motion in urban environments by analyzing semantic maps to forecast human occupancy patterns.",
+        "Location": "Stanford University, USA"
+    },
+    {
+        "Use": 239,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Predicting mobile edge computing resource demands",
+        "Capability": "Modeling and forecasting spatio-temporal distributions",
+        "AI_Deployer": "Telecom companies, urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for predicting mobile edge computing resource demands by modeling and forecasting spatio-temporal distributions to enhance the management and operation of critical infrastructure.",
+        "Location": "Shanghai"
+    },
+    {
+        "Use": 240,
+        "Domain": "Innovation and Research",
+        "Purpose": "Predicting radio wave propagation for mobile networks",
+        "Capability": "Modeling radio wave propagation from urban structure maps",
+        "AI_Deployer": "Telecom companies, network operators",
+        "AI_Subject": "Mobile network users",
+        "Description": "The AI system intended to be used for predicting radio wave propagation for mobile networks by modeling radio wave propagation from urban structure maps.",
+        "Location": "Tokyo, Japan"
+    },
+    {
+        "Use": 241,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy consumption in a university campus",
+        "Capability": "Balancing energy loads",
+        "AI_Deployer": "University administrators, energy managers",
+        "AI_Subject": "Campus buildings and residents",
+        "Description": "The AI system intended to be used for optimizing energy consumption in a university campus by balancing energy loads.",
+        "Location": "Constanta, Romania"
+    },
+    {
+        "Use": 242,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "Answering geographic questions using spatial data",
+        "Capability": "Classifying geographic entities and spatial relations using knowledge graphs",
+        "AI_Deployer": "Geospatial analysts",
+        "AI_Subject": "Geographic entities, locations",
+        "Description": "The AI system intended to be used by geospatial analysts for answering geographic questions using spatial data by classifying geographic entities and spatial relations using knowledge graphs.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 243,
+        "Domain": "Social and Community Services",
+        "Purpose": "Detecting urban communities based on mobility patterns",
+        "Capability": "Identifying community structures from GPS mobility data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by urban planners for identifying community structures from GPS mobility data of city residents.",
+        "Location": "Beijing"
+    },
+    {
+        "Use": 244,
+        "Domain": "Management and operation of critical infrastructure",
+        "Purpose": "Managing interconnected energy and waste systems",
+        "Capability": "Modeling and optimizing energy production from waste processes",
+        "AI_Deployer": "City governments, urban planners",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for managing interconnected energy and waste systems to optimize energy production from waste processes by city governments and urban planners for the benefit of city residents.",
+        "Location": "Ontario, Canada"
+    },
+    {
+        "Use": 245,
+        "Domain": "Urban Planning",
+        "Purpose": "Optimizing urban land-use distribution",
+        "Capability": "Generating land-use configurations based on spatial hierarchy and human input",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "Residents, city dwellers",
+        "Description": "The AI system intended to be used for optimizing urban land-use distribution by generating land-use configurations based on spatial hierarchy and human input.",
+        "Location": "Beijing"
+    },
+    {
+        "Use": 246,
+        "Domain": "Innovation and Research",
+        "Purpose": "Estimating adoption rate of smart energy technologies",
+        "Capability": "Analyzing survey data using structural equation modeling",
+        "AI_Deployer": "Researchers",
+        "AI_Subject": "Energy users",
+        "Description": "The AI system intended to be used for estimating adoption rates of smart energy technologies by analyzing survey data using structural equation modeling.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 247,
+        "Domain": "Public and private transportation",
+        "Purpose": "Predicting multiple urban travel demands",
+        "Capability": "Extracting spatial-temporal dependencies from travel data",
+        "AI_Deployer": "City transportation agencies",
+        "AI_Subject": "Commuters",
+        "Description": "The AI system intended to be used for predicting multiple urban travel demands by extracting spatial-temporal dependencies from travel data.",
+        "Location": "New York City"
+    },
+    {
+        "Use": 248,
+        "Domain": "Energy",
+        "Purpose": "Reducing energy consumption costs on a campus microgrid",
+        "Capability": "Optimizing energy flow from IoT-based renewable energy sources",
+        "AI_Deployer": "University administrators, energy managers",
+        "AI_Subject": "Campus buildings and occupants",
+        "Description": "The AI system intended to be used for optimizing energy flow from IoT-based renewable energy sources to reduce energy consumption costs on a campus microgrid.",
+        "Location": "Wuhan, China"
+    },
+    {
+        "Use": 249,
+        "Domain": "Urban Planning",
+        "Purpose": "Automating the generation of land use configurations",
+        "Capability": "Using adversarial learning to generate city layouts based on surrounding context data",
+        "AI_Deployer": "Urban planners, city governments",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used to automate the generation of land use configurations through adversarial learning for urban planning purposes.",
+        "Location": "Beijing, China"
+    },
+    {
+        "Use": 250,
+        "Domain": "Law enforcement",
+        "Purpose": "Predicting urban crime rates",
+        "Capability": "Generating region embeddings from human mobility data",
+        "AI_Deployer": "Urban planners, government agencies",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for predicting urban crime rates by generating region embeddings from human mobility data.",
+        "Location": "New York City, USA"
+    },
+    {
+        "Use": 251,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Assessing urban metabolism",
+        "Capability": "Predicting urban metabolic changes based on life cycle data",
+        "AI_Deployer": "City planners, environmental researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used for assessing urban metabolism by predicting urban metabolic changes based on life cycle data for city planners and environmental researchers.",
+        "Location": "Lisbon, Portugal"
+    },
+    {
+        "Use": 252,
+        "Domain": "Energy",
+        "Purpose": "Predicting energy consumption for urban buildings",
+        "Capability": "Analyzing building energy use by aggregating data from individual buildings",
+        "AI_Deployer": "Urban planners, energy analysts",
+        "AI_Subject": "Building occupants",
+        "Description": "The AI system intended to be used for predicting energy consumption for urban buildings by aggregating data from individual buildings.",
+        "Location": "Wuhan, China"
+    },
+    {
+        "Use": 253,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Optimizing urban landscape ecological planning",
+        "Capability": "Predicting ecological landscape indices from terrain data",
+        "AI_Deployer": "Urban planners, environmental designers",
+        "AI_Subject": "Urban ecological systems",
+        "Description": "The AI system intended to be used for optimizing urban landscape ecological planning by predicting ecological landscape indices from terrain data.",
+        "Location": "Unknown"
+    },
+    {
+        "Use": 254,
+        "Domain": "Urban Planning",
+        "Purpose": "Generating land use configurations",
+        "Capability": "Modeling and predicting urban functional zones based on geospatial data",
+        "AI_Deployer": "Urban planners",
+        "AI_Subject": "City infrastructure, residents",
+        "Description": "The AI system intended to be used for generating land use configurations by modeling and predicting urban functional zones based on geospatial data for urban planners managing city infrastructure and residents.",
+        "Location": "Beijing"
+    },
+    {
+        "Use": 255,
+        "Domain": "Social and Community Services",
+        "Purpose": "Predicting socioeconomic indicators from urban imagery",
+        "Capability": "Analyzing satellite and street view images",
+        "AI_Deployer": "Urban planners, researchers",
+        "AI_Subject": "City residents",
+        "Description": "The AI system intended to be used by urban planners and researchers for predicting socioeconomic indicators from urban imagery by analyzing satellite and street view images.",
+        "Location": "Beijing, Shanghai, New York"
+    },
+    {
+        "Use": 256,
+        "Domain": "Urban Planning",
+        "Purpose": "Designing environmentally adaptive buildings",
+        "Capability": "Generating building forms based on environmental data and parametric modeling",
+        "AI_Deployer": "Architects, building designers",
+        "AI_Subject": "Building occupants, users",
+        "Description": "The AI system intended to be used for designing environmentally adaptive buildings by generating building forms based on environmental data and parametric modeling, aimed to be utilized by architects and building designers.",
+        "Location": "Sharjah, United Arab Emirates"
+    },
+    {
+        "Use": 257,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Generating and editing urban scene images",
+        "Capability": "Generating photorealistic images of urban sceness",
+        "AI_Deployer": "Autonomous vehicle developers",
+        "AI_Subject": "Urban environments",
+        "Description": "The AI system intended to be used by autonomous vehicle developers to generate and edit photorealistic images of urban scenes.",
+        "Location": "Unknown"
+    }
+]

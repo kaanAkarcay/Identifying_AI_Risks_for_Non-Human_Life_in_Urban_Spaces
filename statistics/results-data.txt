@@ -1,0 +1,214 @@
+============================================================
+TOTAL RISKS ANALYZED: 23945
+TOTAL HIGH-RISKS FILTERED (10%): 2394
+============================================================
+
+1) GLOBAL INDIVIDUAL CATEGORY PERCENTAGES (CQ1='Yes' & CQ2='No')
+------------------------------------------------------------
+space_ter                 |  29.4%  (Count: 705)
+gov_unmanaged             |  20.1%  (Count: 480)
+gov_nuisance              |  17.5%  (Count: 420)
+space_arb                 |  17.5%  (Count: 420)
+scale_small               |  17.5%  (Count: 418)
+kin_sessile               |  17.3%  (Count: 414)
+econ_damaging             |  16.5%  (Count: 394)
+form_sessile_branched     |  15.4%  (Count: 368)
+space_aq_ter              |  13.1%  (Count: 313)
+eco_avoider               |  10.9%  (Count: 261)
+scale_large               |   9.3%  (Count: 223)
+sense_photo               |   9.3%  (Count: 222)
+soc_dislike               |   8.6%  (Count: 205)
+soc_indiff                |   8.2%  (Count: 197)
+
+============================================================
+6) GENERAL DIMENSION CAUSALITY PROPORTIONS
+============================================================
+Note: Percentages represent the proportion of risks where the dimension as a whole was a causal factor.
+
+space                               |  75.4%  (Count: 1805 / 2394)
+gov_status                          |  45.0%  (Count: 1078 / 2394)
+scale                               |  36.0%  (Count: 863 / 2394)
+eco_status                          |  24.9%  (Count: 597 / 2394)
+form                                |  20.4%  (Count: 489 / 2394)
+kinematics                          |  20.2%  (Count: 484 / 2394)
+econ_effect                         |  19.3%  (Count: 461 / 2394)
+soc_accept                          |  17.7%  (Count: 424 / 2394)
+rhythm                              |  11.9%  (Count: 286 / 2394)
+sense                               |  10.9%  (Count: 262 / 2394)
+
+
+## SECTORAL KINETIC FOOTPRINT (% Direct vs % Indirect Unintentional Risks)
+
+| AI_System_Domain                                    |   Unintentional: direct |   Unintentional: indirect |   Direct_to_Indirect_Ratio |
+|:----------------------------------------------------|------------------------:|--------------------------:|---------------------------:|
+| Accessibility and Inclusion                         |                   15.87 |                     81.75 |                       0.19 |
+| Agriculture and Farming                             |                    2.05 |                     76.45 |                       0.03 |
+| Autonomous Robots and Robotics                      |                   51.64 |                     46.3  |                       1.12 |
+| Climate Change Mitigation and Adaptation            |                    3.62 |                     84.31 |                       0.04 |
+| Crisis Management and Emergency Response            |                   16.95 |                     71.19 |                       0.24 |
+| Energy                                              |                    1.6  |                     93.22 |                       0.02 |
+| Environment and Sustainability                      |                   36.44 |                     54.74 |                       0.67 |
+| Finance and Investment                              |                    3.31 |                     79.01 |                       0.04 |
+| Government Services and Administration              |                    3.32 |                     83.67 |                       0.04 |
+| Health and Healthcare                               |                   19.31 |                     76.36 |                       0.25 |
+| Human-Computer Interaction                          |                    1.92 |                     86.32 |                       0.02 |
+| Innovation and Research                             |                   14.28 |                     77.43 |                       0.18 |
+| Law enforcement                                     |                    7.24 |                     88.04 |                       0.08 |
+| Management and operation of critical infrastructure |                   14.74 |                     81.21 |                       0.18 |
+| Public and private transportation                   |                   13.9  |                     76.3  |                       0.18 |
+| Security and Cybersecurity                          |                   15.35 |                     79.86 |                       0.19 |
+| Smart home                                          |                    4.64 |                     91.98 |                       0.05 |
+| Social and Community Services                       |                    1.02 |                     81.63 |                       0.01 |
+| Sports and Recreation                               |                   12.66 |                     84.76 |                       0.15 |
+| Transport and Logistics                             |                   33.05 |                     63.45 |                       0.52 |
+| Urban Planning                                      |                    2.11 |                     83.26 |                       0.03 |
+| Well-being                                          |                    5.26 |                     42.11 |                       0.12 |
+
+
+## DOMAIN RISK DENSITY (Controlling for Imbalanced AI System Counts)
+
+| AI_System_Domain                                    |   Total_Risks |   Unique_AI_Systems |   Risks_per_System_Deployed |
+|:----------------------------------------------------|--------------:|--------------------:|----------------------------:|
+| Autonomous Robots and Robotics                      |          1216 |                   5 |                       243.2 |
+| Smart home                                          |           237 |                   1 |                       237   |
+| Government Services and Administration              |           392 |                   2 |                       196   |
+| Management and operation of critical infrastructure |          2645 |                  14 |                       188.9 |
+| Energy                                              |          2743 |                  17 |                       161.4 |
+| Human-Computer Interaction                          |           468 |                   3 |                       156   |
+| Transport and Logistics                             |          1401 |                   9 |                       155.7 |
+| Sports and Recreation                               |           466 |                   3 |                       155.3 |
+| Climate Change Mitigation and Adaptation            |           580 |                   4 |                       145   |
+| Urban Planning                                      |          7078 |                  56 |                       126.4 |
+| Accessibility and Inclusion                         |           126 |                   1 |                       126   |
+| Security and Cybersecurity                          |           417 |                   4 |                       104.2 |
+| Environment and Sustainability                      |          2143 |                  21 |                       102   |
+| Innovation and Research                             |          1387 |                  14 |                        99.1 |
+| Agriculture and Farming                             |           293 |                   3 |                        97.7 |
+| Law enforcement                                     |           677 |                   7 |                        96.7 |
+| Health and Healthcare                               |           461 |                   5 |                        92.2 |
+| Public and private transportation                   |           633 |                   7 |                        90.4 |
+| Social and Community Services                       |           294 |                   5 |                        58.8 |
+| Crisis Management and Emergency Response            |           118 |                   3 |                        39.3 |
+| Finance and Investment                              |           181 |                   6 |                        30.2 |
+| Well-being                                          |            19 |                   1 |                        19   |
+
+
+## REGULATORY BLIND SPOT (EU AI Act vs Ecology)
+
+| Classification      |   Total_Risks |   Avg_Eco_Severity |
+|:--------------------|--------------:|-------------------:|
+| Limited or Low Risk |         17319 |               2.82 |              
+| High Risk           |          5958 |               2.57 |              
+| High-Risk Exception |           381 |               2.2  |
+| Excluded            |           282 |               2.07 |
+| Prohibited          |             2 |               4    |
+
+
+## FIGURE 2: DOMAIN-SPECIFIC CATEGORY DISTRIBUTIONS
+
+>> Domain: Urban Planning (Total Risks: 1503)
+   -- Top Causal Dimensions --
+      space_ter                 |  28.5% (Count: 428)
+      gov_unmanaged             |  25.1% (Count: 377)
+      space_arb                 |  19.0% (Count: 286)
+      scale_small               |  17.0% (Count: 256)
+      kin_sessile               |  16.6% (Count: 249)
+      space_aq_ter              |  14.8% (Count: 222)
+      form_sessile_branched     |  14.5% (Count: 218)
+      gov_nuisance              |  14.0% (Count: 211)
+      econ_damaging             |  13.3% (Count: 200)
+      eco_avoider               |  12.6% (Count: 190)
+
+>> Domain: Management and operation of critical infrastructure (Total Risks: 113)
+   -- Top Causal Dimensions --
+      gov_nuisance              |  37.2% (Count: 42)
+      econ_damaging             |  34.5% (Count: 39)
+      space_ter                 |  26.5% (Count: 30)
+      soc_dislike               |  22.1% (Count: 25)
+      rhythm_nocturnal          |  20.4% (Count: 23)
+      sense_photo               |  20.4% (Count: 23)
+      space_aq_ter              |  14.2% (Count: 16)
+      form_sessile_branched     |  12.4% (Count: 14)
+      scale_small               |  11.5% (Count: 13)
+      scale_large               |  11.5% (Count: 13)
+
+>> Domain: Transport and Logistics (Total Risks: 97)
+   -- Top Causal Dimensions --
+      space_ter                 |  47.4% (Count: 46)
+      kin_sessile               |  34.0% (Count: 33)
+      scale_small               |  24.7% (Count: 24)
+      form_sessile_branched     |  19.6% (Count: 19)
+      rhythm_nocturnal          |  18.6% (Count: 18)
+      gov_nuisance              |  13.4% (Count: 13)
+      space_arb                 |  12.4% (Count: 12)
+      econ_damaging             |  10.3% (Count: 10)
+
+>> Domain: Agriculture and Farming (Total Risks: 67)
+   -- Top Causal Dimensions --
+      econ_damaging             |  49.3% (Count: 33)
+      gov_nuisance              |  41.8% (Count: 28)
+      soc_dislike               |  25.4% (Count: 17)
+      space_ter                 |  23.9% (Count: 16)
+      gov_unmanaged             |  19.4% (Count: 13)
+      soc_indiff                |  17.9% (Count: 12)
+      eco_exploiter             |  14.9% (Count: 10)
+      scale_small               |  11.9% (Count: 8)
+      scale_mini                |  11.9% (Count: 8)
+
+>> Domain: Environment and Sustainability (Total Risks: 52)
+   -- Top Causal Dimensions --
+      gov_nuisance              |  63.5% (Count: 33)
+      econ_damaging             |  55.8% (Count: 29)
+      eco_adapter               |  26.9% (Count: 14)
+      space_ter                 |  19.2% (Count: 10)
+      soc_dislike               |  17.3% (Count: 9)
+      eco_exploiter             |  15.4% (Count: 8)
+      soc_indiff                |  15.4% (Count: 8)
+      scale_large               |  13.5% (Count: 7)
+      form_sessile_branched     |  11.5% (Count: 6)
+
+>> Domain: Autonomous Robots and Robotics (Total Risks: 18)
+   -- Top Causal Dimensions --
+      scale_small               |  55.6% (Count: 10)
+      kin_erratic               |  44.4% (Count: 8)
+      rhythm_diurnal            |  33.3% (Count: 6)
+      space_ter                 |  33.3% (Count: 6)
+      form_winged               |  27.8% (Count: 5)
+      space_arb                 |  22.2% (Count: 4)
+      rhythm_nocturnal          |  22.2% (Count: 4)
+      form_sessile_branched     |  16.7% (Count: 3)
+      kin_sessile               |  16.7% (Count: 3)
+      scale_mini                |  16.7% (Count: 3)
+
+>> Domain: Climate Change Mitigation and Adaptation (Total Risks: 16)
+   -- Top Causal Dimensions --
+      econ_damaging             |  43.8% (Count: 7)
+      gov_nuisance              |  43.8% (Count: 7)
+      form_sessile_branched     |  31.2% (Count: 5)
+      eco_adapter               |  31.2% (Count: 5)
+      scale_large               |  25.0% (Count: 4)
+      space_ter                 |  18.8% (Count: 3)
+      rhythm_nocturnal          |  18.8% (Count: 3)
+      eco_exploiter             |  18.8% (Count: 3)
+      space_ter_arb             |  18.8% (Count: 3)
+      soc_indiff                |  18.8% (Count: 3)
+      kin_sessile               |  18.8% (Count: 3)
+
+>> Domain: Public and private transportation (Total Risks: 14)
+   -- Top Causal Dimensions --
+      scale_small               |  28.6% (Count: 4)
+      rhythm_diurnal            |  28.6% (Count: 4)
+      rhythm_nocturnal          |  14.3% (Count: 2)
+      gov_nuisance              |  14.3% (Count: 2)
+      space_aer                 |  14.3% (Count: 2)
+      kin_linear                |  14.3% (Count: 2)
+      space_aq_ter              |  14.3% (Count: 2)
+      gov_protected             |  14.3% (Count: 2)
+      space_arb                 |  14.3% (Count: 2)
+
+## FIGURE 3: HEATMAP
+Risk_Category,Total_Audited_Risks,space_ter,gov_unmanaged,gov_nuisance,space_arb,scale_small,kin_sessile,econ_damaging,form_sessile_branched,space_aq_ter,eco_avoider
+Unintentional: indirect,1758,32.65,25.14,1.02,20.82,19.45,20.19,0.74,16.27,14.62,13.88
+Unintentional: direct,64,53.12,9.38,0.0,12.5,56.25,37.5,0.0,35.94,6.25,3.12
+Foregone benefits,154,8.44,16.23,6.49,11.69,8.44,4.55,5.84,6.49,16.23,9.74
+Intentional: socially accepted/legal,418,20.1,1.67,93.78,6.7,6.46,6.7,89.0,11.72,6.46,0.0

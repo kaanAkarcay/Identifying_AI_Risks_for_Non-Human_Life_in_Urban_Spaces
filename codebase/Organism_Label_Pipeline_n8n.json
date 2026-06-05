@@ -1,0 +1,243 @@
+{
+  "name": "Organism Label Pipeline (Importable)",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "5de83254-6d2b-49a0-9cfa-bdf238ef77c4",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return [\n  {\n    json: {\n      names: [\"Arisaema ringens\", \"Lemna minor\", \"Ondatra zibethicus\", \"Monstera deliciosa\", \"Mesocricetus auratus\", \"Psittacula krameri\", \"Trachemys scripta\", \"Alocasia odora\", \"Trichoglossus haematodus\", \"Chelodina longicollis\", \"Myiopsitta monachus\", \"Symplocarpus foetidus\", \"Psittacula alexandri\", \"Amazona viridigenalis\", \"Pinellia ternata\", \"Arum italicum\", \"Oryctolagus cuniculus\", \"Phyllotis darwini\", \"Melopsittacus undulatus\", \"Pistia stratiotes\", \"Peromyscus maniculatus\", \"Felis catus\", \"Canis lupus\", \"Mus musculus\", \"Carassius auratus\", \"Pipilo maculatus\", \"Hirundo neoxena\", \"Chaetura pelagica\", \"Aechmophorus occidentalis\", \"Turdus falcklandii\", \"Vireo olivaceus\", \"Psophodes olivaceus\", \"Oriolus chinensis\", \"Coracina novaehollandiae\", \"Pluvialis squatarola\", \"Troglodytes musculus\", \"Megathura crenulata\", \"Styela montereyensis\", \"Polycera atra\", \"Cadlina flavomaculata\", \"Felimare californiensis\", \"Arbacia stellata\", \"Trikentrion helium\", \"Hypsipetes amaurotis\", \"Polioptila caerulea\", \"Litoria peronii\", \"Orectolobus maculatus\", \"Calidris alba\", \"Liquidambar styraciflua\", \"Haemorhous purpureus\", \"Corvus corax\", \"Psilopogon lineatus\", \"Porzana carolina\", \"Tetronarce californica\", \"Parus cinereus\", \"Cygnus olor\", \"Troglodytes troglodytes\", \"Macropus giganteus\", \"Apus apus\", \"Aegithalos caudatus\", \"Falco sparverius\", \"Ailanthus altissima\", \"Pseudomonas spec.\", \"Upupa epops\", \"Rallus limicola\", \"Eschscholzia californica\", \"Regulus regulus\", \"Pandion haliaetus\", \"Ampelopsis glandulosa\", \"Gerygone sulphurea\", \"Lanius bucephalus\", \"Tachybaptus ruficollis\", \"Ostreococcus tauri\", \"Vireo plumbeus\", \"Taxodium distichum\", \"Anredera cordifolia\", \"Ninox novaeseelandiae\", \"Ulmus minor\", \"Dioprosopa clavatus\", \"Mirabilis laevis\", \"Dactylopusia pauciarticulata\", \"Pieris rapae\", \"Bubo magellanicus\", \"Malacocincla abbotti\", \"Chloropsis moluccensis\", \"Sylvia communis\", \"Pachydiplax longipennis\", \"Ectocarpus siliculosus\", \"Anthus novaeseelandiae\", \"Hieraaetus morphnoides\", \"Papilio polyxenes\", \"Cercidiphyllum japonicum\", \"Eleodes osculans\", \"Milvus migrans\", \"Gallinula melanops\", \"Ciconia nigra\", \"Bothrogonia addita\", \"Anas crecca\", \"Galeopterus variegatus\", \"Orthetrum sabina\", \"Pycanum alternatum\", \"Remiz consobrinus\", \"Crocodylus porosus\", \"Sitta europaea\", \"Geranium homeanum\", \"Xanthorrhoea arborea\", \"Mallophora fautrix\", \"Gleichenia dicarpa\", \"Alnus rhombifolia\", \"Dryopteris arguta\", \"Westringia fruticosa\", \"Emiliania huxleyi\", \"Verbascum virgatum\", \"Navicula membranacea\", \"Sceliphron caementarium\", \"Limax maximus\", \"Aphis nerii\", \"Lilium humboldtii\", \"Erodium botrys\", \"Fomes fomentarius\", \"Andricus quercuscalifornicus\", \"Eulobus californicus\", \"Claytonia perfoliata\", \"Lygaeus kalmii\", \"Schizophyllum commune\", \"Morus alba\", \"Aedes vexans\", \"Cercodemas anceps\", \"Garrulus glandarius\", \"Equisetum arvense\", \"Calystegia sepium\", \"Pseudozizeeria maha\", \"Sarika resplendens\", \"Sus scrofa\", \"Augochlora pura\", \"Tapinoma sessile\", \"Crithagra mozambica\", \"Rehmannia glutinosa\", \"Cuculus saturatus\", \"Elaeagnus angustifolia\", \"Pasithea caerulea\", \"Tachina fera\", \"Glareola maldivarum\", \"Tyto furcata\", \"Agriopis leucophaearia\", \"Epilobium hirsutum\", \"Hyalessa maculaticollis\", \"Bibio marci\", \"Salmonella enterica\", \"Archaster typicus\", \"Poanes viator\", \"Caprimulgus jotaka\", \"Hermetia illucens\", \"Myocastor coypus\", \"Buteo lagopus\", \"Fucus distichus\", \"Paradoxurus hermaphroditus\", \"Chorthippus biguttulus\", \"Amauropelta noveboracensis\", \"Apiosporina morbosa\", \"Dryopteris marginalis\", \"Arachnoides placenta\", \"Leea rubra\", \"Corizus hyoscyami\", \"Atomosia puella\", \"Sargus bipunctatus\", \"Halcyon pileata\", \"Apioperdon pyriforme\", \"Lasius fuliginosus\", \"Nomia fuscipennis\", \"Busycotypus canaliculatus\", \"Dicentra cucullaria\", \"Ziziphus jujuba\", \"Eutolmus rufibarbis\", \"Cardamine pratensis\", \"Osmundastrum cinnamomeum\", \"Pyralis farinalis\", \"Orthotrichum diaphanum\", \"Theridion zonulatum\", \"Tristellateia australasiae\", \"Thoradonta nodulosa\", \"Carcinoscorpius rotundicauda\", \"Mallotus japonicus\", \"Armadillidium vulgare\", \"Onychargia atrocyana\", \"Raphanus sativus\", \"Arundina graminifolia\", \"Nelumbo nucifera\", \"Garrulax chinensis\", \"Menemerus nigli\", \"Hydrophasianus chirurgus\", \"Duncanopsammia peltata\", \"Scytodes globula\", \"Ornebius kanetataki\", \"Thereuopoda longicornis\", \"Corinnomma severum\", \"Passiflora laurifolia\", \"Anisomeria littoralis\", \"Bythopsyrna tineoides\", \"Bactrocera dorsalis\", \"Tachypleus gigas\", \"Celtis sinensis\", \"Cryptococcus watticus\", \"Helophilus eristaloideus\", \"Macleaya cordata\", \"Acer palmatum\", \"Trachycarpus fortunei\", \"Gymnostellatospora japonica\", \"Schizanthus porrigens\", \"Vibrio vulnificus\", \"Matrona basilaris\", \"Silene tatarinowii\", \"Erythranthe lutea\", \"Peumus boldus\", \"Urochela quadrinotata\", \"Galium aparine\", \"Trichodes sinae\", \"Sphex latreillei\", \"Oenopia conglobata\", \"Polybia ruficeps\", \"Necrophila japonica\", \"Battus polydamas\", \"Thinocorus rumicivorus\", \"Ulmus macrocarpa\", \"Polygala tenuifolia\", \"Euphorbia serpens\", \"Styrax japonicus\", \"Veronica persica\", \"Anthrenus verbasci\", \"Scolopendra japonica\", \"Sarcandra glabra\", \"Ectinogonia speciosa\", \"Clogmia albipunctatus\", \"Oecobius navus\", \"Neoschizothecium carpinicola\", \"Aquarius chilensis\", \"Elaphe quadrivirgata\", \"Cerace xanthocosma\", \"Nezara viridula\", \"Plectostylus chilensis\", \"Cornus controversa\", \"Pasteurella canis\", \"Oxidus gracilis\", \"Lunularia cruciata\", \"Epophthalmia elegans\", \"Eupeodes corollae\", \"Lachnum virgineum\", \"Phoracantha recurva\", \"Lasia aenea\", \"Tarentola mauritanica\", \"Oenothera biennis\", \"Cucurbita maxima\", \"Pectocera fortunei\", \"Stauntonia hexaphylla\", \"Podocarpus macrophyllus\", \"Vespa simillima\", \"Trifolium fragiferum\", \"Althos sinuaticollis\", \"Daphniphyllum macropodum\", \"Abrocoma bennettii\", \"Niorma chrysophthalma\", \"Cocconeis placentula\"],\n      dimensions: {\n        physical_scale: {\n          description: \"Categorized by general volumetric bounds to determine sensor threshold detectability.\",\n          categories: [\n            { code: \"scale_micro\", description: \"Microscopic (< 1mm, invisible to spatial sensors).\" },\n            { code: \"scale_mini\", description: \"Miniature (1mm - 10cm; e.g., insects, moss; causes sensor noise).\" },\n            { code: \"scale_small\", description: \"Small (10cm - 1m; e.g., rodents, small birds, weeds; high false-negative risk).\" },\n            { code: \"scale_medium\", description: \"Medium (1m - 2m; e.g., dogs, human-sized shrubs; highly detectable).\" },\n            { code: \"scale_large\", description: \"Large (> 2m; e.g., mature trees, deer, livestock).\" }\n          ]\n        },\n        morphological_form: {\n          description: \"The geometric shape the AI's computer vision must classify.\",\n          categories: [\n            { code: \"form_bipedal\", description: \"Upright/Two-legged (e.g., birds on the ground, primates).\" },\n            { code: \"form_quadrupedal\", description: \"Horizontal with limbs (e.g., cats, foxes).\" },\n            { code: \"form_apodal\", description: \"Limbless/Serpentine (e.g., snakes, worms).\" },\n            { code: \"form_winged\", description: \"Avian/Winged in flight (e.g., flying birds, bats).\" },\n            { code: \"form_sessile_branched\", description: \"Rooted with sprawling structures (e.g., plants, trees, fungi).\" },\n            { code: \"form_amorphous\", description: \"No distinct rigid geometry (e.g., slime molds, microbial colonies).\" }\n          ]\n        },\n        kinematic_profile: {\n          description: \"The predictability and speed of the organism's movement.\",\n          categories: [\n            { code: \"kin_sessile\", description: \"Immobile/Rooted (e.g., flora, fungi).\" },\n            { code: \"kin_linear\", description: \"Steady, predictable trajectory (e.g., walking mammals).\" },\n            { code: \"kin_erratic\", description: \"Unpredictable, rapid directional changes (e.g., birds, flying insects, squirrels).\" }\n          ]\n        },\n        primary_spatial_niche: {\n            description: \"The primary physical substrate or vertical layer the organism inhabits or requires for its core life functions. Classify based on the organism's foundational relationship to the environment, not the physical structure the organism creates.\",\n            categories: [\n              { code: \"space_aq\", description: \"Aquatic: Exclusively water-dwelling; requires a liquid medium for survival.\" },\n              { code: \"space_aq_sub\", description: \"Aquatic Subterranean: Occupies underwater environments beneath the surface/ground.\" },\n              { code: \"space_aq_ter\", description: \"Aquatic Terrestrial: Transitions between water bodies and land surfaces.\" },\n              { code: \"space_aq_sub_ter\", description: \"Aquatic Subterranean Terrestrial: Uses water, underground, and surface environments.\" },\n              { code: \"space_sub\", description: \"Subterranean: Exclusively occupies soil, earth, or rock below the surface level.\" },\n              { code: \"space_ter\", description: \"Terrestrial: Anchored to, rooted in, or primarily moving across the ground surface/soil.\" },\n              { code: \"space_sub_ter\", description: \"Subterranean Terrestrial: Occupies both the surface ground and the soil/earth beneath it.\" },\n              { code: \"space_arb\", description: \"Arboreal: Lives primarily on or within elevated botanical structures (e.g., branches, canopies) rather than the ground.\" },\n              { code: \"space_ter_arb\", description: \"Terrestrial Arboreal: Transitions between the ground surface and elevated botanical canopies.\" },\n              { code: \"space_star\", description: \"Subterranean Terrestrial Arboreal: Utilizes underground, surface, and elevated botanical spaces.\" },\n              { code: \"space_aer\", description: \"Aerial: Primary activities (foraging, mating) occur in the open airspace.\" },\n              { code: \"space_ter_aer\", description: \"Terrestrial Aerial: Transitions between ground-level occupation and open airspace.\" }\n            ]\n          },\n        urban_ecological_status: {\n          description: \"How species relate to human environments.\",\n          categories: [\n            { code: \"eco_obligate\", description: \"Human-dependent.\" },\n            { code: \"eco_exploiter\", description: \"Thrives in heavily built environments.\" },\n            { code: \"eco_adapter\", description: \"Uses urban green spaces/edges.\" },\n            { code: \"eco_avoider\", description: \"Cannot survive urban disruption.\" }\n          ]\n        },\n        economic_effect: {\n          description: \"Human valuation of ecosystem services or impacts.\",\n          categories: [\n            { code: \"econ_beneficial\", description: \"Beneficial impact.\" },\n            { code: \"econ_neutral\", description: \"Neutral impact.\" },\n            { code: \"econ_damaging\", description: \"Damaging impact.\" }\n          ]\n        },\n        economic_governance_status: {\n          description: \"Official municipal or legal standing.\",\n          categories: [\n            { code: \"gov_protected\", description: \"Legally protected/conserved.\" },\n            { code: \"gov_cultivated\", description: \"Owned/farmed/purposefully maintained.\" },\n            { code: \"gov_nuisance\", description: \"Targeted for removal/extermination.\" },\n            { code: \"gov_unmanaged\", description: \"Outside formal policy.\" }\n          ]\n        },\n        primary_sensory_perception: {\n          description: \"Dominant mechanism used to perceive environmental stimuli.Choose the modality most continuously relied upon in ordinary sensing/foraging/orientation, not rare or specialized capabilities.\",\n          categories: [\n            { code: \"sense_magneto\", description: \"Magnetoreception.\" },\n            { code: \"sense_photo\", description: \"Light stimulus.\" },\n            { code: \"sense_mechano\", description: \"Mechanical stimulus.\" },\n            { code: \"sense_thermo\", description: \"Temperature stimulus.\" },\n            { code: \"sense_chemo\", description: \"Chemical stimulus.\" },\n            { code: \"sense_electro\", description: \"Electrical stimulus.\" },\n            { code: \"sense_hygro\", description: \"Humidity stimulus.\" }\n          ]\n        },\n        activity_rhythm: {\n          description: \"Primary temporal pattern of organism-environment interaction across a normal 24-hour cycle. For organisms without sleep-wake behavior and with continuous physiological-environmental interaction, prefer continuous.\",\n          categories: [\n            { code: \"rhythm_diurnal\", description: \"Day-active.\" },\n            { code: \"rhythm_nocturnal\", description: \"Night-active.\" },\n            { code: \"rhythm_crepuscular\", description: \"Dawn/dusk-active.\" },\n            { code: \"rhythm_continuous\", description: \"Always on / a-rhythmic.\" }\n          ]\n        }\n      }\n    }\n  }\n];"
+      },
+      "id": "7cade639-a09c-4296-8b70-03f8cba153fc",
+      "name": "Input",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        224,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const root = $input.all()[0].json;\nconst out = [];\nfor (const name of root.names) {\n  out.push({\n    json: {\n      name,\n      dimensions: root.dimensions\n    }\n  });\n}\nreturn out;"
+      },
+      "id": "5fa83062-102c-4d97-bb4c-0da7d4aafc32",
+      "name": "Expand Names",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        448,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst out = [];\nfor (const item of items) {\n  const name = item.json.name;\n  const dimensions = item.json.dimensions;\n  for (const key of Object.keys(dimensions)) {\n    out.push({\n      json: {\n        name,\n        dimension_key: key,\n        dimension: dimensions[key]\n      }\n    });\n  }\n}\nreturn out;"
+      },
+      "id": "9d9632f2-7268-40e6-81e3-7dcb43fbd28a",
+      "name": "Expand Dimensions",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        672,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const name = $json.name;\nconst key = $json.dimension_key;\nconst dim = $json.dimension;\n\nconst allowedCodes = dim.categories.map(c => c.code);\nconst categoryLines = dim.categories.map(c => `- ${c.code}: ${c.description}`).join(\"\\n\");\n\nconst prompt = `You are a strict labeling agent.\\n\\nTarget organism: \"${name}\"\\nDimension: \"${key}\"\\nDimension description: ${dim.description}\\n\\nAllowed categories:\\n${categoryLines}\\n\\nRules:\\n- Select exactly one category code.\\n- Must be one of: ${JSON.stringify(allowedCodes)}\\n- Do not invent codes.\\n- Output only JSON with exact shape:\\n{\"name\":\"${name}\",\"dimension\":\"${key}\",\"label\":\"<one_allowed_code>\"}`;\n\nreturn {\n  json: {\n    name,\n    dimension: key,\n    allowed: allowedCodes,\n    prompt\n  }\n};"
+      },
+      "id": "ea17d632-b24a-4871-a7a1-c3309ca0d8dd",
+      "name": "Build Prompt",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        880,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.openai.com/v1/chat/completions",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer sk-proj-...."
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ { \"model\": \"gpt-5-mini-2025-08-07\", \"response_format\": { \"type\": \"json_object\" }, \"messages\": [ { \"role\": \"system\", \"content\": \"You are a strict labeling agent. Output valid JSON only.\" }, { \"role\": \"user\", \"content\": $json.prompt } ] } }}",
+        "options": {}
+      },
+      "id": "9ae55638-cf74-4023-a382-e44defb78fd7",
+      "name": "OpenAI Label",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1104,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Input node adın \"Input\" değilse değiştir\nconst dimensions = $items(\"Input\")[0].json.dimensions;\n\n// Gelen item'lar bazen tek item içinde array olabilir, bazen item-item gelebilir\nconst inItems = $input.all();\nlet records = [];\n\n// 1) normalize: completion objelerini tek listeye topla\nfor (const it of inItems) {\n  const j = it.json;\n  if (Array.isArray(j)) {\n    records.push(...j);\n  } else if (Array.isArray(j.output)) {\n    records.push(...j.output);\n  } else if (j.choices) {\n    records.push(j);\n  } else if (Array.isArray(j.data)) {\n    records.push(...j.data);\n  }\n}\n\nif (records.length === 0) {\n  throw new Error(\"No completion records found in Parse Validate input.\");\n}\n\n// 2) parse + validate\nconst out = [];\n\nfor (const rec of records) {\n  const raw = rec?.choices?.[0]?.message?.content;\n  if (!raw) continue;\n\n  let obj;\n  try {\n    obj = JSON.parse(String(raw).trim());\n  } catch {\n    const m = String(raw).match(/\\{[\\s\\S]*\\}/);\n    if (!m) continue;\n    obj = JSON.parse(m[0]);\n  }\n\n  const name = String(obj.name ?? \"\").trim();\n  const dimension = String(obj.dimension ?? \"\").trim();\n  const label = String(obj.label ?? \"\").trim();\n\n  if (!name || !dimension || !label) continue;\n  if (!dimensions[dimension]) continue;\n\n  const allowed = dimensions[dimension].categories.map(c => c.code);\n  if (!allowed.includes(label)) {\n    throw new Error(`Invalid label '${label}' for ${name}/${dimension}`);\n  }\n\n  out.push({ json: { name, dimension, label } });\n}\n\nreturn out;"
+      },
+      "id": "172bad56-8963-4924-a907-55e04ee8a12a",
+      "name": "Parse Validate",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1328,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst byName = new Map();\n\nfor (const item of items) {\n  const { name, dimension, label } = item.json;\n  if (!byName.has(name)) byName.set(name, { name });\n  byName.get(name)[dimension] = label;\n}\n\nconst rows = Array.from(byName.values()).sort((a, b) =>\n  a.name.localeCompare(b.name, 'en', { sensitivity: 'base' })\n);\n\nreturn rows.map(row => ({ json: row }));"
+      },
+      "id": "dd1f539a-a1e2-4a95-8f42-adc1395b616a",
+      "name": "Pivot By Name",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1552,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "toFile",
+        "fileFormat": "csv",
+        "options": {}
+      },
+      "id": "e1375daa-c4db-4795-a958-0d344270697b",
+      "name": "Spreadsheet File",
+      "type": "n8n-nodes-base.spreadsheetFile",
+      "typeVersion": 2,
+      "position": [
+        1760,
+        0
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Input": {
+      "main": [
+        [
+          {
+            "node": "Expand Names",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Expand Names": {
+      "main": [
+        [
+          {
+            "node": "Expand Dimensions",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Expand Dimensions": {
+      "main": [
+        [
+          {
+            "node": "Build Prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build Prompt": {
+      "main": [
+        [
+          {
+            "node": "OpenAI Label",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Label": {
+      "main": [
+        [
+          {
+            "node": "Parse Validate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Validate": {
+      "main": [
+        [
+          {
+            "node": "Pivot By Name",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pivot By Name": {
+      "main": [
+        [
+          {
+            "node": "Spreadsheet File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "66e785e4-d695-456d-9e8a-75fef276ceed",
+  "meta": {
+    "instanceId": "d5d1f6e9c012ab1086f8c0a20a2d543eb00377d7d86fe163756e3718e634bc5b"
+  },
+  "id": "S6LTzyjnFvO1mTV1",
+  "tags": []
+}
